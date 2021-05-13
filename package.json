@@ -1,0 +1,37 @@
+{
+  "name": "dataset",
+  "version": "1.0.0",
+  "description": "Projet L3 LIFPROJET",
+  "main": "dataset.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node dataset.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://forge.univ-lyon1.fr/p1509933/data_vis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-select": "^1.13.12",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "firacode": "^2.0.0",
+    "jquery": "^3.4.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.17.1",
+    "nanoid": "^2.1.2",
+    "nodemon": "^2.0.2",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.3",
+    "@babel/core": "^7.6.3",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.3"
+  }
+}

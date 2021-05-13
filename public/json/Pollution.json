@@ -1,0 +1,9860 @@
+[
+    {
+      "idC": 0,
+      "Year": 1975,
+      "Value": 2127,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 0,
+      "Year": 1985,
+      "Value": 3509,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 0,
+      "Year": 1995,
+      "Value": 1243,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 0,
+      "Year": 2005,
+      "Value": 1327,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 0,
+      "Year": 2010,
+      "Value": 8463,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 0,
+      "Year": 2012,
+      "Value": 10755,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 0,
+      "Year": 2013,
+      "Value": 10015,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 0,
+      "Year": 2014,
+      "Value": 9809,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 1,
+      "Year": 1975,
+      "Value": 4595,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 1,
+      "Year": 1985,
+      "Value": 7880,
+      "ValuePerCapita": 2.7
+    },
+    {
+      "idC": 1,
+      "Year": 1995,
+      "Value": 2087,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 1,
+      "Year": 2005,
+      "Value": 4254,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 1,
+      "Year": 2010,
+      "Value": 4598,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 1,
+      "Year": 2012,
+      "Value": 4910,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 1,
+      "Year": 2013,
+      "Value": 5064,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 1,
+      "Year": 2014,
+      "Value": 5717,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 2,
+      "Year": 1975,
+      "Value": 32031,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 2,
+      "Year": 1985,
+      "Value": 72786,
+      "ValuePerCapita": 3.3
+    },
+    {
+      "idC": 2,
+      "Year": 1995,
+      "Value": 95294,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 2,
+      "Year": 2005,
+      "Value": 107278,
+      "ValuePerCapita": 3.3
+    },
+    {
+      "idC": 2,
+      "Year": 2010,
+      "Value": 119178,
+      "ValuePerCapita": 3.3
+    },
+    {
+      "idC": 2,
+      "Year": 2012,
+      "Value": 129988,
+      "ValuePerCapita": 3.5
+    },
+    {
+      "idC": 2,
+      "Year": 2013,
+      "Value": 134465,
+      "ValuePerCapita": 3.5
+    },
+    {
+      "idC": 2,
+      "Year": 2014,
+      "Value": 145400,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 3,
+      "Year": 1995,
+      "Value": 425,
+      "ValuePerCapita": 6.6
+    },
+    {
+      "idC": 3,
+      "Year": 2005,
+      "Value": 576,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 3,
+      "Year": 2010,
+      "Value": 517,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 3,
+      "Year": 2012,
+      "Value": 488,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 3,
+      "Year": 2013,
+      "Value": 477,
+      "ValuePerCapita": 6.3
+    },
+    {
+      "idC": 3,
+      "Year": 2014,
+      "Value": 462,
+      "ValuePerCapita": 6.4
+    },
+    {
+      "idC": 4,
+      "Year": 1975,
+      "Value": 4415,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 4,
+      "Year": 1985,
+      "Value": 4701,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 4,
+      "Year": 1995,
+      "Value": 10975,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 4,
+      "Year": 2005,
+      "Value": 19156,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 4,
+      "Year": 2010,
+      "Value": 29057,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 4,
+      "Year": 2012,
+      "Value": 33399,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 4,
+      "Year": 2013,
+      "Value": 32618,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 4,
+      "Year": 2014,
+      "Value": 34763,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 5,
+      "Year": 1995,
+      "Value": 66,
+      "ValuePerCapita": 6.9
+    },
+    {
+      "idC": 5,
+      "Year": 2005,
+      "Value": 128,
+      "ValuePerCapita": 9.5
+    },
+    {
+      "idC": 5,
+      "Year": 2010,
+      "Value": 150,
+      "ValuePerCapita": 10.9
+    },
+    {
+      "idC": 5,
+      "Year": 2012,
+      "Value": 143,
+      "ValuePerCapita": 10
+    },
+    {
+      "idC": 5,
+      "Year": 2013,
+      "Value": 136,
+      "ValuePerCapita": 9.5
+    },
+    {
+      "idC": 5,
+      "Year": 2014,
+      "Value": 143,
+      "ValuePerCapita": 9.8
+    },
+    {
+      "idC": 6,
+      "Year": 1975,
+      "Value": 708,
+      "ValuePerCapita": 10.2
+    },
+    {
+      "idC": 6,
+      "Year": 1985,
+      "Value": 249,
+      "ValuePerCapita": 3.8
+    },
+    {
+      "idC": 6,
+      "Year": 1995,
+      "Value": 275,
+      "ValuePerCapita": 4
+    },
+    {
+      "idC": 6,
+      "Year": 2005,
+      "Value": 429,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 6,
+      "Year": 2010,
+      "Value": 524,
+      "ValuePerCapita": 6
+    },
+    {
+      "idC": 6,
+      "Year": 2012,
+      "Value": 524,
+      "ValuePerCapita": 5.9
+    },
+    {
+      "idC": 6,
+      "Year": 2013,
+      "Value": 524,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 6,
+      "Year": 2014,
+      "Value": 532,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 7,
+      "Year": 1975,
+      "Value": 94931,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 7,
+      "Year": 1985,
+      "Value": 100597,
+      "ValuePerCapita": 3.3
+    },
+    {
+      "idC": 7,
+      "Year": 1995,
+      "Value": 127964,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 7,
+      "Year": 2005,
+      "Value": 162111,
+      "ValuePerCapita": 4.2
+    },
+    {
+      "idC": 7,
+      "Year": 2010,
+      "Value": 187919,
+      "ValuePerCapita": 4.5
+    },
+    {
+      "idC": 7,
+      "Year": 2012,
+      "Value": 192356,
+      "ValuePerCapita": 4.6
+    },
+    {
+      "idC": 7,
+      "Year": 2013,
+      "Value": 189852,
+      "ValuePerCapita": 4.5
+    },
+    {
+      "idC": 7,
+      "Year": 2014,
+      "Value": 204025,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 8,
+      "Year": 1995,
+      "Value": 3410,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 8,
+      "Year": 2005,
+      "Value": 4353,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 8,
+      "Year": 2010,
+      "Value": 4217,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 8,
+      "Year": 2012,
+      "Value": 5695,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 8,
+      "Year": 2013,
+      "Value": 5497,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 8,
+      "Year": 2014,
+      "Value": 5530,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 9,
+      "Year": 1995,
+      "Value": 1668,
+      "ValuePerCapita": 20.8
+    },
+    {
+      "idC": 9,
+      "Year": 2005,
+      "Value": 2721,
+      "ValuePerCapita": 26.9
+    },
+    {
+      "idC": 9,
+      "Year": 2010,
+      "Value": 2508,
+      "ValuePerCapita": 24.7
+    },
+    {
+      "idC": 9,
+      "Year": 2012,
+      "Value": 1349,
+      "ValuePerCapita": 13.2
+    },
+    {
+      "idC": 9,
+      "Year": 2013,
+      "Value": 862,
+      "ValuePerCapita": 8.4
+    },
+    {
+      "idC": 9,
+      "Year": 2014,
+      "Value": 873,
+      "ValuePerCapita": 8.4
+    },
+    {
+      "idC": 10,
+      "Year": 1975,
+      "Value": 175884,
+      "ValuePerCapita": 12.7
+    },
+    {
+      "idC": 10,
+      "Year": 1985,
+      "Value": 241230,
+      "ValuePerCapita": 15.3
+    },
+    {
+      "idC": 10,
+      "Year": 1995,
+      "Value": 281860,
+      "ValuePerCapita": 15.5
+    },
+    {
+      "idC": 10,
+      "Year": 2005,
+      "Value": 350173,
+      "ValuePerCapita": 17.2
+    },
+    {
+      "idC": 10,
+      "Year": 2010,
+      "Value": 390862,
+      "ValuePerCapita": 17.6
+    },
+    {
+      "idC": 10,
+      "Year": 2012,
+      "Value": 388126,
+      "ValuePerCapita": 16.9
+    },
+    {
+      "idC": 10,
+      "Year": 2013,
+      "Value": 372267,
+      "ValuePerCapita": 16
+    },
+    {
+      "idC": 10,
+      "Year": 2014,
+      "Value": 361262,
+      "ValuePerCapita": 15.3
+    },
+    {
+      "idC": 11,
+      "Year": 1975,
+      "Value": 54393,
+      "ValuePerCapita": 7.2
+    },
+    {
+      "idC": 11,
+      "Year": 1985,
+      "Value": 54701,
+      "ValuePerCapita": 7.2
+    },
+    {
+      "idC": 11,
+      "Year": 1995,
+      "Value": 59783,
+      "ValuePerCapita": 7.5
+    },
+    {
+      "idC": 11,
+      "Year": 2005,
+      "Value": 74216,
+      "ValuePerCapita": 9
+    },
+    {
+      "idC": 11,
+      "Year": 2010,
+      "Value": 67502,
+      "ValuePerCapita": 8
+    },
+    {
+      "idC": 11,
+      "Year": 2012,
+      "Value": 62273,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 11,
+      "Year": 2013,
+      "Value": 62486,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 11,
+      "Year": 2014,
+      "Value": 58712,
+      "ValuePerCapita": 6.9
+    },
+    {
+      "idC": 12,
+      "Year": 1995,
+      "Value": 33333,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 12,
+      "Year": 2005,
+      "Value": 34338,
+      "ValuePerCapita": 4
+    },
+    {
+      "idC": 12,
+      "Year": 2010,
+      "Value": 30678,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 12,
+      "Year": 2012,
+      "Value": 35555,
+      "ValuePerCapita": 3.8
+    },
+    {
+      "idC": 12,
+      "Year": 2013,
+      "Value": 35643,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 12,
+      "Year": 2014,
+      "Value": 37488,
+      "ValuePerCapita": 3.9
+    },
+    {
+      "idC": 13,
+      "Year": 1975,
+      "Value": 8254,
+      "ValuePerCapita": 43.7
+    },
+    {
+      "idC": 13,
+      "Year": 1985,
+      "Value": 1511,
+      "ValuePerCapita": 6.5
+    },
+    {
+      "idC": 13,
+      "Year": 1995,
+      "Value": 1683,
+      "ValuePerCapita": 6
+    },
+    {
+      "idC": 13,
+      "Year": 2005,
+      "Value": 1742,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 13,
+      "Year": 2010,
+      "Value": 1654,
+      "ValuePerCapita": 4.6
+    },
+    {
+      "idC": 13,
+      "Year": 2012,
+      "Value": 1969,
+      "ValuePerCapita": 5.3
+    },
+    {
+      "idC": 13,
+      "Year": 2013,
+      "Value": 2802,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 13,
+      "Year": 2014,
+      "Value": 2417,
+      "ValuePerCapita": 6.3
+    },
+    {
+      "idC": 14,
+      "Year": 1975,
+      "Value": 5754,
+      "ValuePerCapita": 21.7
+    },
+    {
+      "idC": 14,
+      "Year": 1985,
+      "Value": 10194,
+      "ValuePerCapita": 24.5
+    },
+    {
+      "idC": 14,
+      "Year": 1995,
+      "Value": 14818,
+      "ValuePerCapita": 26.5
+    },
+    {
+      "idC": 14,
+      "Year": 2005,
+      "Value": 19208,
+      "ValuePerCapita": 26.5
+    },
+    {
+      "idC": 14,
+      "Year": 2010,
+      "Value": 29266,
+      "ValuePerCapita": 23.2
+    },
+    {
+      "idC": 14,
+      "Year": 2012,
+      "Value": 26674,
+      "ValuePerCapita": 20
+    },
+    {
+      "idC": 14,
+      "Year": 2013,
+      "Value": 31313,
+      "ValuePerCapita": 23.2
+    },
+    {
+      "idC": 14,
+      "Year": 2014,
+      "Value": 31338,
+      "ValuePerCapita": 23
+    },
+    {
+      "idC": 15,
+      "Year": 1975,
+      "Value": 487,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 15,
+      "Year": 1985,
+      "Value": 10235,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 15,
+      "Year": 1995,
+      "Value": 22816,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 15,
+      "Year": 2005,
+      "Value": 39479,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 15,
+      "Year": 2010,
+      "Value": 59937,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 15,
+      "Year": 2012,
+      "Value": 67506,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 15,
+      "Year": 2013,
+      "Value": 69710,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 15,
+      "Year": 2014,
+      "Value": 73190,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 16,
+      "Year": 1975,
+      "Value": 568,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 16,
+      "Year": 1985,
+      "Value": 847,
+      "ValuePerCapita": 3.3
+    },
+    {
+      "idC": 16,
+      "Year": 1995,
+      "Value": 829,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 16,
+      "Year": 2005,
+      "Value": 1353,
+      "ValuePerCapita": 5
+    },
+    {
+      "idC": 16,
+      "Year": 2010,
+      "Value": 1478,
+      "ValuePerCapita": 5.3
+    },
+    {
+      "idC": 16,
+      "Year": 2012,
+      "Value": 1470,
+      "ValuePerCapita": 5.2
+    },
+    {
+      "idC": 16,
+      "Year": 2013,
+      "Value": 1448,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 16,
+      "Year": 2014,
+      "Value": 1272,
+      "ValuePerCapita": 4.5
+    },
+    {
+      "idC": 17,
+      "Year": 1995,
+      "Value": 60773,
+      "ValuePerCapita": 5.9
+    },
+    {
+      "idC": 17,
+      "Year": 2005,
+      "Value": 59167,
+      "ValuePerCapita": 6
+    },
+    {
+      "idC": 17,
+      "Year": 2010,
+      "Value": 63043,
+      "ValuePerCapita": 6.6
+    },
+    {
+      "idC": 17,
+      "Year": 2012,
+      "Value": 63223,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 17,
+      "Year": 2013,
+      "Value": 63769,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 17,
+      "Year": 2014,
+      "Value": 63498,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 18,
+      "Year": 1975,
+      "Value": 122100,
+      "ValuePerCapita": 12.5
+    },
+    {
+      "idC": 18,
+      "Year": 1985,
+      "Value": 104473,
+      "ValuePerCapita": 10.6
+    },
+    {
+      "idC": 18,
+      "Year": 1995,
+      "Value": 112328,
+      "ValuePerCapita": 11.1
+    },
+    {
+      "idC": 18,
+      "Year": 2005,
+      "Value": 108510,
+      "ValuePerCapita": 10.4
+    },
+    {
+      "idC": 18,
+      "Year": 2010,
+      "Value": 110824,
+      "ValuePerCapita": 10.2
+    },
+    {
+      "idC": 18,
+      "Year": 2012,
+      "Value": 95107,
+      "ValuePerCapita": 8.6
+    },
+    {
+      "idC": 18,
+      "Year": 2013,
+      "Value": 96970,
+      "ValuePerCapita": 8.7
+    },
+    {
+      "idC": 18,
+      "Year": 2014,
+      "Value": 93351,
+      "ValuePerCapita": 8.3
+    },
+    {
+      "idC": 19,
+      "Year": 1975,
+      "Value": 176,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 19,
+      "Year": 1985,
+      "Value": 191,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 19,
+      "Year": 1995,
+      "Value": 378,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 19,
+      "Year": 2005,
+      "Value": 422,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 19,
+      "Year": 2010,
+      "Value": 539,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 19,
+      "Year": 2012,
+      "Value": 477,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 19,
+      "Year": 2013,
+      "Value": 513,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 19,
+      "Year": 2014,
+      "Value": 495,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 20,
+      "Year": 1975,
+      "Value": 444,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 20,
+      "Year": 1985,
+      "Value": 744,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 20,
+      "Year": 1995,
+      "Value": 1327,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 20,
+      "Year": 2005,
+      "Value": 2395,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 20,
+      "Year": 2010,
+      "Value": 5090,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 20,
+      "Year": 2012,
+      "Value": 5471,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 20,
+      "Year": 2013,
+      "Value": 5812,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 20,
+      "Year": 2014,
+      "Value": 6318,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 21,
+      "Year": 1975,
+      "Value": 458,
+      "ValuePerCapita": 8.5
+    },
+    {
+      "idC": 21,
+      "Year": 1985,
+      "Value": 451,
+      "ValuePerCapita": 7.8
+    },
+    {
+      "idC": 21,
+      "Year": 1995,
+      "Value": 532,
+      "ValuePerCapita": 8.7
+    },
+    {
+      "idC": 21,
+      "Year": 2005,
+      "Value": 583,
+      "ValuePerCapita": 9.1
+    },
+    {
+      "idC": 21,
+      "Year": 2010,
+      "Value": 609,
+      "ValuePerCapita": 9.5
+    },
+    {
+      "idC": 21,
+      "Year": 2012,
+      "Value": 477,
+      "ValuePerCapita": 7.5
+    },
+    {
+      "idC": 21,
+      "Year": 2013,
+      "Value": 458,
+      "ValuePerCapita": 7.3
+    },
+    {
+      "idC": 21,
+      "Year": 2014,
+      "Value": 576,
+      "ValuePerCapita": 9.2
+    },
+    {
+      "idC": 22,
+      "Year": 1975,
+      "Value": 4,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 22,
+      "Year": 1985,
+      "Value": 62,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 22,
+      "Year": 1995,
+      "Value": 249,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 22,
+      "Year": 2005,
+      "Value": 396,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 22,
+      "Year": 2010,
+      "Value": 488,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 22,
+      "Year": 2012,
+      "Value": 818,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 22,
+      "Year": 2013,
+      "Value": 920,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 22,
+      "Year": 2014,
+      "Value": 1001,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 23,
+      "Year": 1975,
+      "Value": 4059,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 23,
+      "Year": 1985,
+      "Value": 4125,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 23,
+      "Year": 1995,
+      "Value": 9850,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 23,
+      "Year": 2005,
+      "Value": 12185,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 23,
+      "Year": 2010,
+      "Value": 15203,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 23,
+      "Year": 2012,
+      "Value": 18793,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 23,
+      "Year": 2013,
+      "Value": 18918,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 23,
+      "Year": 2014,
+      "Value": 20411,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 24,
+      "Year": 2012,
+      "Value": 312,
+      "ValuePerCapita": 13.6
+    },
+    {
+      "idC": 24,
+      "Year": 2013,
+      "Value": 323,
+      "ValuePerCapita": 13.6
+    },
+    {
+      "idC": 24,
+      "Year": 2014,
+      "Value": 323,
+      "ValuePerCapita": 13.3
+    },
+    {
+      "idC": 25,
+      "Year": 1995,
+      "Value": 3429,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 25,
+      "Year": 2005,
+      "Value": 16204,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 25,
+      "Year": 2010,
+      "Value": 21276,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 25,
+      "Year": 2012,
+      "Value": 22259,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 25,
+      "Year": 2013,
+      "Value": 21921,
+      "ValuePerCapita": 5.7
+    },
+    {
+      "idC": 25,
+      "Year": 2014,
+      "Value": 22233,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 26,
+      "Year": 1975,
+      "Value": 187,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 26,
+      "Year": 1985,
+      "Value": 1159,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 26,
+      "Year": 1995,
+      "Value": 3047,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 26,
+      "Year": 2005,
+      "Value": 4096,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 26,
+      "Year": 2010,
+      "Value": 4686,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 26,
+      "Year": 2012,
+      "Value": 4232,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 26,
+      "Year": 2013,
+      "Value": 5229,
+      "ValuePerCapita": 2.4
+    },
+    {
+      "idC": 26,
+      "Year": 2014,
+      "Value": 7033,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 27,
+      "Year": 1975,
+      "Value": 151165,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 27,
+      "Year": 1985,
+      "Value": 181249,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 27,
+      "Year": 1995,
+      "Value": 258347,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 27,
+      "Year": 2005,
+      "Value": 347309,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 27,
+      "Year": 2010,
+      "Value": 419754,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 27,
+      "Year": 2012,
+      "Value": 470029,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 27,
+      "Year": 2013,
+      "Value": 503677,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 27,
+      "Year": 2014,
+      "Value": 529808,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 28,
+      "Year": 1975,
+      "Value": 26,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 28,
+      "Year": 1985,
+      "Value": 48,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 28,
+      "Year": 1995,
+      "Value": 84,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 28,
+      "Year": 2005,
+      "Value": 132,
+      "ValuePerCapita": 6
+    },
+    {
+      "idC": 28,
+      "Year": 2010,
+      "Value": 172,
+      "ValuePerCapita": 6.3
+    },
+    {
+      "idC": 28,
+      "Year": 2012,
+      "Value": 176,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 28,
+      "Year": 2013,
+      "Value": 176,
+      "ValuePerCapita": 6
+    },
+    {
+      "idC": 28,
+      "Year": 2014,
+      "Value": 180,
+      "ValuePerCapita": 6
+    },
+    {
+      "idC": 29,
+      "Year": 1975,
+      "Value": 7081,
+      "ValuePerCapita": 45.2
+    },
+    {
+      "idC": 29,
+      "Year": 1985,
+      "Value": 2596,
+      "ValuePerCapita": 11.8
+    },
+    {
+      "idC": 29,
+      "Year": 1995,
+      "Value": 4789,
+      "ValuePerCapita": 16.5
+    },
+    {
+      "idC": 29,
+      "Year": 2005,
+      "Value": 5005,
+      "ValuePerCapita": 13.8
+    },
+    {
+      "idC": 29,
+      "Year": 2010,
+      "Value": 8203,
+      "ValuePerCapita": 20.9
+    },
+    {
+      "idC": 29,
+      "Year": 2012,
+      "Value": 9666,
+      "ValuePerCapita": 23.8
+    },
+    {
+      "idC": 29,
+      "Year": 2013,
+      "Value": 7803,
+      "ValuePerCapita": 19
+    },
+    {
+      "idC": 29,
+      "Year": 2014,
+      "Value": 9109,
+      "ValuePerCapita": 21.8
+    },
+    {
+      "idC": 30,
+      "Year": 1975,
+      "Value": 73061,
+      "ValuePerCapita": 8.4
+    },
+    {
+      "idC": 30,
+      "Year": 1985,
+      "Value": 89541,
+      "ValuePerCapita": 10
+    },
+    {
+      "idC": 30,
+      "Year": 1995,
+      "Value": 58005,
+      "ValuePerCapita": 6.9
+    },
+    {
+      "idC": 30,
+      "Year": 2005,
+      "Value": 47917,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 30,
+      "Year": 2010,
+      "Value": 44114,
+      "ValuePerCapita": 5.9
+    },
+    {
+      "idC": 30,
+      "Year": 2012,
+      "Value": 44708,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 30,
+      "Year": 2013,
+      "Value": 39600,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 30,
+      "Year": 2014,
+      "Value": 42416,
+      "ValuePerCapita": 5.9
+    },
+    {
+      "idC": 31,
+      "Year": 1975,
+      "Value": 220,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 31,
+      "Year": 1985,
+      "Value": 477,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 31,
+      "Year": 1995,
+      "Value": 627,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 31,
+      "Year": 2005,
+      "Value": 1126,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 31,
+      "Year": 2010,
+      "Value": 1962,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 31,
+      "Year": 2012,
+      "Value": 2629,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 31,
+      "Year": 2013,
+      "Value": 3058,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 31,
+      "Year": 2014,
+      "Value": 2849,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 32,
+      "Year": 1975,
+      "Value": 77,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 32,
+      "Year": 1985,
+      "Value": 231,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 32,
+      "Year": 1995,
+      "Value": 238,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 32,
+      "Year": 2005,
+      "Value": 154,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 32,
+      "Year": 2010,
+      "Value": 213,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 32,
+      "Year": 2012,
+      "Value": 282,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 32,
+      "Year": 2013,
+      "Value": 290,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 32,
+      "Year": 2014,
+      "Value": 440,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 33,
+      "Year": 1975,
+      "Value": 77,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 33,
+      "Year": 1985,
+      "Value": 84,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 33,
+      "Year": 1995,
+      "Value": 121,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 33,
+      "Year": 2005,
+      "Value": 440,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 33,
+      "Year": 2010,
+      "Value": 557,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 33,
+      "Year": 2012,
+      "Value": 506,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 33,
+      "Year": 2013,
+      "Value": 499,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 33,
+      "Year": 2014,
+      "Value": 491,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 34,
+      "Year": 1975,
+      "Value": 73,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 34,
+      "Year": 1985,
+      "Value": 418,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 34,
+      "Year": 1995,
+      "Value": 1551,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 34,
+      "Year": 2005,
+      "Value": 2776,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 34,
+      "Year": 2010,
+      "Value": 5013,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 34,
+      "Year": 2012,
+      "Value": 5456,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 34,
+      "Year": 2013,
+      "Value": 5603,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 34,
+      "Year": 2014,
+      "Value": 6685,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 35,
+      "Year": 1975,
+      "Value": 1162,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 35,
+      "Year": 1985,
+      "Value": 6476,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 35,
+      "Year": 1995,
+      "Value": 4228,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 35,
+      "Year": 2005,
+      "Value": 3696,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 35,
+      "Year": 2010,
+      "Value": 6780,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 35,
+      "Year": 2012,
+      "Value": 6128,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 35,
+      "Year": 2013,
+      "Value": 6773,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 35,
+      "Year": 2014,
+      "Value": 7004,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 36,
+      "Year": 1975,
+      "Value": 397143,
+      "ValuePerCapita": 17.2
+    },
+    {
+      "idC": 36,
+      "Year": 1985,
+      "Value": 422079,
+      "ValuePerCapita": 16.3
+    },
+    {
+      "idC": 36,
+      "Year": 1995,
+      "Value": 467638,
+      "ValuePerCapita": 16
+    },
+    {
+      "idC": 36,
+      "Year": 2005,
+      "Value": 557417,
+      "ValuePerCapita": 17.3
+    },
+    {
+      "idC": 36,
+      "Year": 2010,
+      "Value": 534671,
+      "ValuePerCapita": 15.7
+    },
+    {
+      "idC": 36,
+      "Year": 2012,
+      "Value": 517458,
+      "ValuePerCapita": 14.9
+    },
+    {
+      "idC": 36,
+      "Year": 2013,
+      "Value": 517161,
+      "ValuePerCapita": 14.7
+    },
+    {
+      "idC": 36,
+      "Year": 2014,
+      "Value": 537193,
+      "ValuePerCapita": 15.1
+    },
+    {
+      "idC": 37,
+      "Year": 1975,
+      "Value": 55,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 37,
+      "Year": 1985,
+      "Value": 191,
+      "ValuePerCapita": 9.4
+    },
+    {
+      "idC": 37,
+      "Year": 1995,
+      "Value": 363,
+      "ValuePerCapita": 11
+    },
+    {
+      "idC": 37,
+      "Year": 2005,
+      "Value": 473,
+      "ValuePerCapita": 9.1
+    },
+    {
+      "idC": 37,
+      "Year": 2010,
+      "Value": 557,
+      "ValuePerCapita": 10.1
+    },
+    {
+      "idC": 37,
+      "Year": 2012,
+      "Value": 535,
+      "ValuePerCapita": 9.3
+    },
+    {
+      "idC": 37,
+      "Year": 2013,
+      "Value": 535,
+      "ValuePerCapita": 9.2
+    },
+    {
+      "idC": 37,
+      "Year": 2014,
+      "Value": 543,
+      "ValuePerCapita": 9.2
+    },
+    {
+      "idC": 38,
+      "Year": 1975,
+      "Value": 103,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 38,
+      "Year": 1985,
+      "Value": 161,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 38,
+      "Year": 1995,
+      "Value": 235,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 38,
+      "Year": 2005,
+      "Value": 235,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 38,
+      "Year": 2010,
+      "Value": 264,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 38,
+      "Year": 2012,
+      "Value": 293,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 38,
+      "Year": 2013,
+      "Value": 297,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 38,
+      "Year": 2014,
+      "Value": 301,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 39,
+      "Year": 1975,
+      "Value": 183,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 39,
+      "Year": 1985,
+      "Value": 180,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 39,
+      "Year": 1995,
+      "Value": 110,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 39,
+      "Year": 2005,
+      "Value": 400,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 39,
+      "Year": 2010,
+      "Value": 517,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 39,
+      "Year": 2012,
+      "Value": 612,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 39,
+      "Year": 2013,
+      "Value": 700,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 39,
+      "Year": 2014,
+      "Value": 730,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 40,
+      "Year": 1975,
+      "Value": 23014,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 40,
+      "Year": 1985,
+      "Value": 21503,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 40,
+      "Year": 1995,
+      "Value": 41745,
+      "ValuePerCapita": 2.9
+    },
+    {
+      "idC": 40,
+      "Year": 2005,
+      "Value": 61818,
+      "ValuePerCapita": 3.8
+    },
+    {
+      "idC": 40,
+      "Year": 2010,
+      "Value": 72251,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 40,
+      "Year": 2012,
+      "Value": 80975,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 40,
+      "Year": 2013,
+      "Value": 83226,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 40,
+      "Year": 2014,
+      "Value": 82563,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 41,
+      "Year": 1975,
+      "Value": 1145607,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 41,
+      "Year": 1985,
+      "Value": 1966553,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 41,
+      "Year": 1995,
+      "Value": 3320285,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 41,
+      "Year": 2005,
+      "Value": 5896958,
+      "ValuePerCapita": 4.5
+    },
+    {
+      "idC": 41,
+      "Year": 2010,
+      "Value": 8776040,
+      "ValuePerCapita": 6.5
+    },
+    {
+      "idC": 41,
+      "Year": 2012,
+      "Value": 10028574,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 41,
+      "Year": 2013,
+      "Value": 10258007,
+      "ValuePerCapita": 7.5
+    },
+    {
+      "idC": 41,
+      "Year": 2014,
+      "Value": 10291927,
+      "ValuePerCapita": 7.5
+    },
+    {
+      "idC": 42,
+      "Year": 1975,
+      "Value": 11019,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 42,
+      "Year": 1985,
+      "Value": 23014,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 42,
+      "Year": 1995,
+      "Value": 31470,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 42,
+      "Year": 2005,
+      "Value": 43872,
+      "ValuePerCapita": 6.5
+    },
+    {
+      "idC": 42,
+      "Year": 2010,
+      "Value": 40678,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 42,
+      "Year": 2012,
+      "Value": 43425,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 42,
+      "Year": 2013,
+      "Value": 45005,
+      "ValuePerCapita": 6.3
+    },
+    {
+      "idC": 42,
+      "Year": 2014,
+      "Value": 46223,
+      "ValuePerCapita": 6.4
+    },
+    {
+      "idC": 43,
+      "Year": 1975,
+      "Value": 297,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 43,
+      "Year": 1985,
+      "Value": 733,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 43,
+      "Year": 1995,
+      "Value": 1232,
+      "ValuePerCapita": 3.1
+    },
+    {
+      "idC": 43,
+      "Year": 2005,
+      "Value": 183,
+      "ValuePerCapita": 3.8
+    },
+    {
+      "idC": 43,
+      "Year": 2010,
+      "Value": 1408,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 43,
+      "Year": 2012,
+      "Value": 1313,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 43,
+      "Year": 2013,
+      "Value": 1181,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 43,
+      "Year": 2014,
+      "Value": 1283,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 44,
+      "Year": 1975,
+      "Value": 35896,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 44,
+      "Year": 1985,
+      "Value": 48379,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 44,
+      "Year": 1995,
+      "Value": 59614,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 44,
+      "Year": 2005,
+      "Value": 60946,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 44,
+      "Year": 2010,
+      "Value": 76175,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 44,
+      "Year": 2012,
+      "Value": 79952,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 44,
+      "Year": 2013,
+      "Value": 89625,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 44,
+      "Year": 2014,
+      "Value": 84092,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 45,
+      "Year": 1975,
+      "Value": 33,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 45,
+      "Year": 1985,
+      "Value": 48,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 45,
+      "Year": 1995,
+      "Value": 73,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 45,
+      "Year": 2005,
+      "Value": 139,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 45,
+      "Year": 2010,
+      "Value": 161,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 45,
+      "Year": 2012,
+      "Value": 143,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 45,
+      "Year": 2013,
+      "Value": 176,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 45,
+      "Year": 2014,
+      "Value": 154,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 46,
+      "Year": 1975,
+      "Value": 1100,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 46,
+      "Year": 1985,
+      "Value": 1280,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 46,
+      "Year": 1995,
+      "Value": 1566,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 46,
+      "Year": 2005,
+      "Value": 983,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 46,
+      "Year": 2010,
+      "Value": 1980,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 46,
+      "Year": 2012,
+      "Value": 2970,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 46,
+      "Year": 2013,
+      "Value": 3088,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 46,
+      "Year": 2014,
+      "Value": 3095,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 47,
+      "Year": 1975,
+      "Value": 15,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 47,
+      "Year": 1985,
+      "Value": 22,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 47,
+      "Year": 1995,
+      "Value": 40,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 47,
+      "Year": 2005,
+      "Value": 62,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 47,
+      "Year": 2010,
+      "Value": 70,
+      "ValuePerCapita": 3.5
+    },
+    {
+      "idC": 47,
+      "Year": 2012,
+      "Value": 70,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 47,
+      "Year": 2013,
+      "Value": 70,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 47,
+      "Year": 2014,
+      "Value": 70,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 48,
+      "Year": 1975,
+      "Value": 2039,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 48,
+      "Year": 1985,
+      "Value": 2266,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 48,
+      "Year": 1995,
+      "Value": 4866,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 48,
+      "Year": 2005,
+      "Value": 6868,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 48,
+      "Year": 2010,
+      "Value": 7569,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 48,
+      "Year": 2012,
+      "Value": 7767,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 48,
+      "Year": 2013,
+      "Value": 7598,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 48,
+      "Year": 2014,
+      "Value": 7759,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 49,
+      "Year": 1975,
+      "Value": 399,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 49,
+      "Year": 1985,
+      "Value": 7327,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 49,
+      "Year": 1995,
+      "Value": 6619,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 49,
+      "Year": 2005,
+      "Value": 7825,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 49,
+      "Year": 2010,
+      "Value": 6967,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 49,
+      "Year": 2012,
+      "Value": 9296,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 49,
+      "Year": 2013,
+      "Value": 10686,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 49,
+      "Year": 2014,
+      "Value": 11045,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 50,
+      "Year": 1995,
+      "Value": 16986,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 50,
+      "Year": 2005,
+      "Value": 22592,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 50,
+      "Year": 2010,
+      "Value": 20172,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 50,
+      "Year": 2012,
+      "Value": 17994,
+      "ValuePerCapita": 4.2
+    },
+    {
+      "idC": 50,
+      "Year": 2013,
+      "Value": 17550,
+      "ValuePerCapita": 4.1
+    },
+    {
+      "idC": 50,
+      "Year": 2014,
+      "Value": 16843,
+      "ValuePerCapita": 4
+    },
+    {
+      "idC": 51,
+      "Year": 1975,
+      "Value": 27066,
+      "ValuePerCapita": 2.9
+    },
+    {
+      "idC": 51,
+      "Year": 1985,
+      "Value": 32578,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 51,
+      "Year": 1995,
+      "Value": 25709,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 51,
+      "Year": 2005,
+      "Value": 26006,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 51,
+      "Year": 2010,
+      "Value": 38375,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 51,
+      "Year": 2012,
+      "Value": 36157,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 51,
+      "Year": 2013,
+      "Value": 34800,
+      "ValuePerCapita": 3.1
+    },
+    {
+      "idC": 51,
+      "Year": 2014,
+      "Value": 34837,
+      "ValuePerCapita": 3
+    },
+    {
+      "idC": 52,
+      "Year": 2012,
+      "Value": 5999,
+      "ValuePerCapita": 39.3
+    },
+    {
+      "idC": 52,
+      "Year": 2013,
+      "Value": 5214,
+      "ValuePerCapita": 33.8
+    },
+    {
+      "idC": 52,
+      "Year": 2014,
+      "Value": 5882,
+      "ValuePerCapita": 37.8
+    },
+    {
+      "idC": 53,
+      "Year": 1975,
+      "Value": 1980,
+      "ValuePerCapita": 3
+    },
+    {
+      "idC": 53,
+      "Year": 1985,
+      "Value": 3102,
+      "ValuePerCapita": 4.4
+    },
+    {
+      "idC": 53,
+      "Year": 1995,
+      "Value": 5383,
+      "ValuePerCapita": 6.3
+    },
+    {
+      "idC": 53,
+      "Year": 2005,
+      "Value": 7503,
+      "ValuePerCapita": 7.3
+    },
+    {
+      "idC": 53,
+      "Year": 2010,
+      "Value": 7708,
+      "ValuePerCapita": 7
+    },
+    {
+      "idC": 53,
+      "Year": 2012,
+      "Value": 6920,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 53,
+      "Year": 2013,
+      "Value": 5948,
+      "ValuePerCapita": 5.2
+    },
+    {
+      "idC": 53,
+      "Year": 2014,
+      "Value": 6062,
+      "ValuePerCapita": 5.2
+    },
+    {
+      "idC": 54,
+      "Year": 1995,
+      "Value": 123831,
+      "ValuePerCapita": 12
+    },
+    {
+      "idC": 54,
+      "Year": 2005,
+      "Value": 120109,
+      "ValuePerCapita": 11.7
+    },
+    {
+      "idC": 54,
+      "Year": 2010,
+      "Value": 111579,
+      "ValuePerCapita": 10.6
+    },
+    {
+      "idC": 54,
+      "Year": 2012,
+      "Value": 101030,
+      "ValuePerCapita": 9.6
+    },
+    {
+      "idC": 54,
+      "Year": 2013,
+      "Value": 98675,
+      "ValuePerCapita": 9.4
+    },
+    {
+      "idC": 54,
+      "Year": 2014,
+      "Value": 96475,
+      "ValuePerCapita": 9.2
+    },
+    {
+      "idC": 55,
+      "Year": 1975,
+      "Value": 107740,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 55,
+      "Year": 1985,
+      "Value": 144898,
+      "ValuePerCapita": 7.7
+    },
+    {
+      "idC": 55,
+      "Year": 1995,
+      "Value": 82911,
+      "ValuePerCapita": 3.8
+    },
+    {
+      "idC": 55,
+      "Year": 2005,
+      "Value": 75573,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 55,
+      "Year": 2010,
+      "Value": 66453,
+      "ValuePerCapita": 2.7
+    },
+    {
+      "idC": 55,
+      "Year": 2012,
+      "Value": 49057,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 55,
+      "Year": 2013,
+      "Value": 36010,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 55,
+      "Year": 2014,
+      "Value": 40528,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 56,
+      "Year": 1975,
+      "Value": 3238,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 56,
+      "Year": 1985,
+      "Value": 3641,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 56,
+      "Year": 1995,
+      "Value": 2123,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 56,
+      "Year": 2005,
+      "Value": 1500,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 56,
+      "Year": 2010,
+      "Value": 2021,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 56,
+      "Year": 2012,
+      "Value": 2402,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 56,
+      "Year": 2013,
+      "Value": 3590,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 56,
+      "Year": 2014,
+      "Value": 4672,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 57,
+      "Year": 1975,
+      "Value": 55779,
+      "ValuePerCapita": 11
+    },
+    {
+      "idC": 57,
+      "Year": 1985,
+      "Value": 60073,
+      "ValuePerCapita": 11.7
+    },
+    {
+      "idC": 57,
+      "Year": 1995,
+      "Value": 57172,
+      "ValuePerCapita": 10.9
+    },
+    {
+      "idC": 57,
+      "Year": 2005,
+      "Value": 47095,
+      "ValuePerCapita": 8.7
+    },
+    {
+      "idC": 57,
+      "Year": 2010,
+      "Value": 46641,
+      "ValuePerCapita": 8.4
+    },
+    {
+      "idC": 57,
+      "Year": 2012,
+      "Value": 36428,
+      "ValuePerCapita": 6.5
+    },
+    {
+      "idC": 57,
+      "Year": 2013,
+      "Value": 38533,
+      "ValuePerCapita": 6.9
+    },
+    {
+      "idC": 57,
+      "Year": 2014,
+      "Value": 33498,
+      "ValuePerCapita": 5.9
+    },
+    {
+      "idC": 58,
+      "Year": 1975,
+      "Value": 198,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 58,
+      "Year": 1985,
+      "Value": 359,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 58,
+      "Year": 1995,
+      "Value": 304,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 58,
+      "Year": 2005,
+      "Value": 414,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 58,
+      "Year": 2010,
+      "Value": 517,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 58,
+      "Year": 2012,
+      "Value": 517,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 58,
+      "Year": 2013,
+      "Value": 609,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 58,
+      "Year": 2014,
+      "Value": 722,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 59,
+      "Year": 1975,
+      "Value": 29,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 59,
+      "Year": 1985,
+      "Value": 48,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 59,
+      "Year": 1995,
+      "Value": 81,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 59,
+      "Year": 2005,
+      "Value": 117,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 59,
+      "Year": 2010,
+      "Value": 139,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 59,
+      "Year": 2012,
+      "Value": 136,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 59,
+      "Year": 2013,
+      "Value": 132,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 59,
+      "Year": 2014,
+      "Value": 136,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 60,
+      "Year": 1975,
+      "Value": 6340,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 60,
+      "Year": 1985,
+      "Value": 7294,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 60,
+      "Year": 1995,
+      "Value": 15885,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 60,
+      "Year": 2005,
+      "Value": 18639,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 60,
+      "Year": 2010,
+      "Value": 21023,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 60,
+      "Year": 2012,
+      "Value": 22123,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 60,
+      "Year": 2013,
+      "Value": 21441,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 60,
+      "Year": 2014,
+      "Value": 21540,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 61,
+      "Year": 1975,
+      "Value": 7363,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 61,
+      "Year": 1985,
+      "Value": 19431,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 61,
+      "Year": 1995,
+      "Value": 22842,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 61,
+      "Year": 2005,
+      "Value": 30264,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 61,
+      "Year": 2010,
+      "Value": 36461,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 61,
+      "Year": 2012,
+      "Value": 38140,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 61,
+      "Year": 2013,
+      "Value": 40997,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 61,
+      "Year": 2014,
+      "Value": 43920,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 62,
+      "Year": 1975,
+      "Value": 31100,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 62,
+      "Year": 1985,
+      "Value": 63938,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 62,
+      "Year": 1995,
+      "Value": 95723,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 62,
+      "Year": 2005,
+      "Value": 167208,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 62,
+      "Year": 2010,
+      "Value": 202715,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 62,
+      "Year": 2012,
+      "Value": 217068,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 62,
+      "Year": 2013,
+      "Value": 213412,
+      "ValuePerCapita": 2.4
+    },
+    {
+      "idC": 62,
+      "Year": 2014,
+      "Value": 201894,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 63,
+      "Year": 1975,
+      "Value": 2109,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 63,
+      "Year": 1985,
+      "Value": 1988,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 63,
+      "Year": 1995,
+      "Value": 5027,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 63,
+      "Year": 2005,
+      "Value": 6454,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 63,
+      "Year": 2010,
+      "Value": 6458,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 63,
+      "Year": 2012,
+      "Value": 6663,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 63,
+      "Year": 2013,
+      "Value": 6230,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 63,
+      "Year": 2014,
+      "Value": 6285,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 64,
+      "Year": 1975,
+      "Value": 62,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 64,
+      "Year": 1985,
+      "Value": 66,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 64,
+      "Year": 1995,
+      "Value": 128,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 64,
+      "Year": 2005,
+      "Value": 4712,
+      "ValuePerCapita": 7.7
+    },
+    {
+      "idC": 64,
+      "Year": 2010,
+      "Value": 4679,
+      "ValuePerCapita": 6.4
+    },
+    {
+      "idC": 64,
+      "Year": 2012,
+      "Value": 5115,
+      "ValuePerCapita": 6.6
+    },
+    {
+      "idC": 64,
+      "Year": 2013,
+      "Value": 5163,
+      "ValuePerCapita": 6.5
+    },
+    {
+      "idC": 64,
+      "Year": 2014,
+      "Value": 5346,
+      "ValuePerCapita": 6.5
+    },
+    {
+      "idC": 65,
+      "Year": 1995,
+      "Value": 935,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 65,
+      "Year": 2005,
+      "Value": 766,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 65,
+      "Year": 2010,
+      "Value": 513,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 65,
+      "Year": 2012,
+      "Value": 660,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 65,
+      "Year": 2013,
+      "Value": 667,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 65,
+      "Year": 2014,
+      "Value": 697,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 66,
+      "Year": 1995,
+      "Value": 17521,
+      "ValuePerCapita": 12.2
+    },
+    {
+      "idC": 66,
+      "Year": 2005,
+      "Value": 16755,
+      "ValuePerCapita": 12.4
+    },
+    {
+      "idC": 66,
+      "Year": 2010,
+      "Value": 18108,
+      "ValuePerCapita": 13.6
+    },
+    {
+      "idC": 66,
+      "Year": 2012,
+      "Value": 17624,
+      "ValuePerCapita": 13.3
+    },
+    {
+      "idC": 66,
+      "Year": 2013,
+      "Value": 19893,
+      "ValuePerCapita": 15.1
+    },
+    {
+      "idC": 66,
+      "Year": 2014,
+      "Value": 19519,
+      "ValuePerCapita": 14.8
+    },
+    {
+      "idC": 67,
+      "Year": 1975,
+      "Value": 1210,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 67,
+      "Year": 1985,
+      "Value": 1815,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 67,
+      "Year": 1995,
+      "Value": 2563,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 67,
+      "Year": 2005,
+      "Value": 5119,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 67,
+      "Year": 2010,
+      "Value": 6586,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 67,
+      "Year": 2012,
+      "Value": 8562,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 67,
+      "Year": 2013,
+      "Value": 10634,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 67,
+      "Year": 2014,
+      "Value": 11599,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 68,
+      "Year": 1975,
+      "Value": 15,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 68,
+      "Year": 1985,
+      "Value": 29,
+      "ValuePerCapita": 15.5
+    },
+    {
+      "idC": 68,
+      "Year": 1995,
+      "Value": 44,
+      "ValuePerCapita": 18.1
+    },
+    {
+      "idC": 68,
+      "Year": 2005,
+      "Value": 51,
+      "ValuePerCapita": 17.5
+    },
+    {
+      "idC": 68,
+      "Year": 2010,
+      "Value": 55,
+      "ValuePerCapita": 19.1
+    },
+    {
+      "idC": 68,
+      "Year": 2012,
+      "Value": 55,
+      "ValuePerCapita": 19.1
+    },
+    {
+      "idC": 68,
+      "Year": 2013,
+      "Value": 55,
+      "ValuePerCapita": 19
+    },
+    {
+      "idC": 68,
+      "Year": 2014,
+      "Value": 55,
+      "ValuePerCapita": 18.9
+    },
+    {
+      "idC": 69,
+      "Year": 1975,
+      "Value": 348,
+      "ValuePerCapita": 8.7
+    },
+    {
+      "idC": 69,
+      "Year": 1985,
+      "Value": 517,
+      "ValuePerCapita": 11.4
+    },
+    {
+      "idC": 69,
+      "Year": 1995,
+      "Value": 572,
+      "ValuePerCapita": 13.1
+    },
+    {
+      "idC": 69,
+      "Year": 2005,
+      "Value": 722,
+      "ValuePerCapita": 15
+    },
+    {
+      "idC": 69,
+      "Year": 2010,
+      "Value": 631,
+      "ValuePerCapita": 12.9
+    },
+    {
+      "idC": 69,
+      "Year": 2012,
+      "Value": 590,
+      "ValuePerCapita": 12.2
+    },
+    {
+      "idC": 69,
+      "Year": 2013,
+      "Value": 678,
+      "ValuePerCapita": 14
+    },
+    {
+      "idC": 69,
+      "Year": 2014,
+      "Value": 598,
+      "ValuePerCapita": 12.4
+    },
+    {
+      "idC": 70,
+      "Year": 1975,
+      "Value": 623,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 70,
+      "Year": 1985,
+      "Value": 579,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 70,
+      "Year": 1995,
+      "Value": 763,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 70,
+      "Year": 2005,
+      "Value": 1096,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 70,
+      "Year": 2010,
+      "Value": 1221,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 70,
+      "Year": 2012,
+      "Value": 1060,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 70,
+      "Year": 2013,
+      "Value": 1151,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 70,
+      "Year": 2014,
+      "Value": 1170,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 71,
+      "Year": 1975,
+      "Value": 46102,
+      "ValuePerCapita": 9.8
+    },
+    {
+      "idC": 71,
+      "Year": 1985,
+      "Value": 49666,
+      "ValuePerCapita": 10.1
+    },
+    {
+      "idC": 71,
+      "Year": 1995,
+      "Value": 52713,
+      "ValuePerCapita": 10.3
+    },
+    {
+      "idC": 71,
+      "Year": 2005,
+      "Value": 54646,
+      "ValuePerCapita": 10.4
+    },
+    {
+      "idC": 71,
+      "Year": 2010,
+      "Value": 62082,
+      "ValuePerCapita": 11.6
+    },
+    {
+      "idC": 71,
+      "Year": 2012,
+      "Value": 49134,
+      "ValuePerCapita": 9.1
+    },
+    {
+      "idC": 71,
+      "Year": 2013,
+      "Value": 47220,
+      "ValuePerCapita": 8.7
+    },
+    {
+      "idC": 71,
+      "Year": 2014,
+      "Value": 47301,
+      "ValuePerCapita": 8.6
+    },
+    {
+      "idC": 72,
+      "Year": 1975,
+      "Value": 446919,
+      "ValuePerCapita": 8.5
+    },
+    {
+      "idC": 72,
+      "Year": 1985,
+      "Value": 400880,
+      "ValuePerCapita": 7.3
+    },
+    {
+      "idC": 72,
+      "Year": 1995,
+      "Value": 349161,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 72,
+      "Year": 2005,
+      "Value": 385369,
+      "ValuePerCapita": 6.3
+    },
+    {
+      "idC": 72,
+      "Year": 2010,
+      "Value": 353033,
+      "ValuePerCapita": 5.6
+    },
+    {
+      "idC": 72,
+      "Year": 2012,
+      "Value": 333228,
+      "ValuePerCapita": 5.2
+    },
+    {
+      "idC": 72,
+      "Year": 2013,
+      "Value": 334097,
+      "ValuePerCapita": 5.2
+    },
+    {
+      "idC": 72,
+      "Year": 2014,
+      "Value": 303276,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 73,
+      "Year": 1975,
+      "Value": 117,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 73,
+      "Year": 1985,
+      "Value": 367,
+      "ValuePerCapita": 4.2
+    },
+    {
+      "idC": 73,
+      "Year": 1995,
+      "Value": 583,
+      "ValuePerCapita": 4.2
+    },
+    {
+      "idC": 73,
+      "Year": 2005,
+      "Value": 554,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 73,
+      "Year": 2010,
+      "Value": 638,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 73,
+      "Year": 2012,
+      "Value": 590,
+      "ValuePerCapita": 2.4
+    },
+    {
+      "idC": 73,
+      "Year": 2013,
+      "Value": 631,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 73,
+      "Year": 2014,
+      "Value": 733,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 74,
+      "Year": 1975,
+      "Value": 213,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 74,
+      "Year": 1985,
+      "Value": 587,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 74,
+      "Year": 1995,
+      "Value": 429,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 74,
+      "Year": 2005,
+      "Value": 821,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 74,
+      "Year": 2010,
+      "Value": 858,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 74,
+      "Year": 2012,
+      "Value": 814,
+      "ValuePerCapita": 3
+    },
+    {
+      "idC": 74,
+      "Year": 2013,
+      "Value": 821,
+      "ValuePerCapita": 3
+    },
+    {
+      "idC": 74,
+      "Year": 2014,
+      "Value": 803,
+      "ValuePerCapita": 2.9
+    },
+    {
+      "idC": 75,
+      "Year": 1975,
+      "Value": 5368,
+      "ValuePerCapita": 9
+    },
+    {
+      "idC": 75,
+      "Year": 1985,
+      "Value": 6318,
+      "ValuePerCapita": 8
+    },
+    {
+      "idC": 75,
+      "Year": 1995,
+      "Value": 4624,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 75,
+      "Year": 2005,
+      "Value": 4888,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 75,
+      "Year": 2010,
+      "Value": 4811,
+      "ValuePerCapita": 3.1
+    },
+    {
+      "idC": 75,
+      "Year": 2012,
+      "Value": 5104,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 75,
+      "Year": 2013,
+      "Value": 5280,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 75,
+      "Year": 2014,
+      "Value": 5192,
+      "ValuePerCapita": 3.1
+    },
+    {
+      "idC": 76,
+      "Year": 1975,
+      "Value": 99,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 76,
+      "Year": 1985,
+      "Value": 172,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 76,
+      "Year": 1995,
+      "Value": 198,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 76,
+      "Year": 2005,
+      "Value": 293,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 76,
+      "Year": 2010,
+      "Value": 433,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 76,
+      "Year": 2012,
+      "Value": 455,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 76,
+      "Year": 2013,
+      "Value": 433,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 76,
+      "Year": 2014,
+      "Value": 513,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 77,
+      "Year": 1995,
+      "Value": 2303,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 77,
+      "Year": 2005,
+      "Value": 5068,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 77,
+      "Year": 2010,
+      "Value": 6315,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 77,
+      "Year": 2012,
+      "Value": 8441,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 77,
+      "Year": 2013,
+      "Value": 7858,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 77,
+      "Year": 2014,
+      "Value": 8988,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 78,
+      "Year": 1995,
+      "Value": 864110,
+      "ValuePerCapita": 10.6
+    },
+    {
+      "idC": 78,
+      "Year": 2005,
+      "Value": 797180,
+      "ValuePerCapita": 9.6
+    },
+    {
+      "idC": 78,
+      "Year": 2010,
+      "Value": 758860,
+      "ValuePerCapita": 9.4
+    },
+    {
+      "idC": 78,
+      "Year": 2012,
+      "Value": 739861,
+      "ValuePerCapita": 9.2
+    },
+    {
+      "idC": 78,
+      "Year": 2013,
+      "Value": 757313,
+      "ValuePerCapita": 9.4
+    },
+    {
+      "idC": 78,
+      "Year": 2014,
+      "Value": 719883,
+      "ValuePerCapita": 8.9
+    },
+    {
+      "idC": 79,
+      "Year": 1975,
+      "Value": 2747,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 79,
+      "Year": 1985,
+      "Value": 3326,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 79,
+      "Year": 1995,
+      "Value": 5277,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 79,
+      "Year": 2005,
+      "Value": 6993,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 79,
+      "Year": 2010,
+      "Value": 9956,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 79,
+      "Year": 2012,
+      "Value": 11877,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 79,
+      "Year": 2013,
+      "Value": 1462,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 79,
+      "Year": 2014,
+      "Value": 14466,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 80,
+      "Year": 1975,
+      "Value": 88,
+      "ValuePerCapita": 3.5
+    },
+    {
+      "idC": 80,
+      "Year": 1985,
+      "Value": 44,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 80,
+      "Year": 1995,
+      "Value": 275,
+      "ValuePerCapita": 10.1
+    },
+    {
+      "idC": 80,
+      "Year": 2005,
+      "Value": 400,
+      "ValuePerCapita": 13.7
+    },
+    {
+      "idC": 80,
+      "Year": 2010,
+      "Value": 466,
+      "ValuePerCapita": 15.2
+    },
+    {
+      "idC": 80,
+      "Year": 2012,
+      "Value": 462,
+      "ValuePerCapita": 14.7
+    },
+    {
+      "idC": 80,
+      "Year": 2013,
+      "Value": 491,
+      "ValuePerCapita": 15.5
+    },
+    {
+      "idC": 80,
+      "Year": 2014,
+      "Value": 528,
+      "ValuePerCapita": 16.5
+    },
+    {
+      "idC": 81,
+      "Year": 1975,
+      "Value": 38874,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 81,
+      "Year": 1985,
+      "Value": 60601,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 81,
+      "Year": 1995,
+      "Value": 78782,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 81,
+      "Year": 2005,
+      "Value": 98675,
+      "ValuePerCapita": 8.8
+    },
+    {
+      "idC": 81,
+      "Year": 2010,
+      "Value": 83857,
+      "ValuePerCapita": 7.5
+    },
+    {
+      "idC": 81,
+      "Year": 2012,
+      "Value": 80043,
+      "ValuePerCapita": 7.2
+    },
+    {
+      "idC": 81,
+      "Year": 2013,
+      "Value": 69482,
+      "ValuePerCapita": 6.3
+    },
+    {
+      "idC": 81,
+      "Year": 2014,
+      "Value": 67319,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 82,
+      "Year": 1975,
+      "Value": 506,
+      "ValuePerCapita": 10.2
+    },
+    {
+      "idC": 82,
+      "Year": 1985,
+      "Value": 510,
+      "ValuePerCapita": 9.6
+    },
+    {
+      "idC": 82,
+      "Year": 1995,
+      "Value": 502,
+      "ValuePerCapita": 9.1
+    },
+    {
+      "idC": 82,
+      "Year": 2005,
+      "Value": 609,
+      "ValuePerCapita": 10.6
+    },
+    {
+      "idC": 82,
+      "Year": 2010,
+      "Value": 664,
+      "ValuePerCapita": 11.7
+    },
+    {
+      "idC": 82,
+      "Year": 2012,
+      "Value": 568,
+      "ValuePerCapita": 10.1
+    },
+    {
+      "idC": 82,
+      "Year": 2013,
+      "Value": 554,
+      "ValuePerCapita": 9.8
+    },
+    {
+      "idC": 82,
+      "Year": 2014,
+      "Value": 506,
+      "ValuePerCapita": 9
+    },
+    {
+      "idC": 83,
+      "Year": 1975,
+      "Value": 48,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 83,
+      "Year": 1985,
+      "Value": 62,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 83,
+      "Year": 1995,
+      "Value": 150,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 83,
+      "Year": 2005,
+      "Value": 216,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 83,
+      "Year": 2010,
+      "Value": 260,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 83,
+      "Year": 2012,
+      "Value": 271,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 83,
+      "Year": 2013,
+      "Value": 304,
+      "ValuePerCapita": 2.9
+    },
+    {
+      "idC": 83,
+      "Year": 2014,
+      "Value": 242,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 84,
+      "Year": 1975,
+      "Value": 403,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 84,
+      "Year": 1985,
+      "Value": 891,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 84,
+      "Year": 1995,
+      "Value": 1463,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 84,
+      "Year": 2005,
+      "Value": 2222,
+      "ValuePerCapita": 5
+    },
+    {
+      "idC": 84,
+      "Year": 2010,
+      "Value": 2299,
+      "ValuePerCapita": 5
+    },
+    {
+      "idC": 84,
+      "Year": 2012,
+      "Value": 2545,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 84,
+      "Year": 2013,
+      "Value": 2556,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 84,
+      "Year": 2014,
+      "Value": 2567,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 85,
+      "Year": 1975,
+      "Value": 3524,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 85,
+      "Year": 1985,
+      "Value": 3524,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 85,
+      "Year": 1995,
+      "Value": 7165,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 85,
+      "Year": 2005,
+      "Value": 12570,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 85,
+      "Year": 2010,
+      "Value": 11665,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 85,
+      "Year": 2012,
+      "Value": 11973,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 85,
+      "Year": 2013,
+      "Value": 13634,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 85,
+      "Year": 2014,
+      "Value": 18328,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 86,
+      "Year": 1975,
+      "Value": 843,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 86,
+      "Year": 1985,
+      "Value": 994,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 86,
+      "Year": 1995,
+      "Value": 1291,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 86,
+      "Year": 2005,
+      "Value": 1826,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 86,
+      "Year": 2010,
+      "Value": 2604,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 86,
+      "Year": 2012,
+      "Value": 2582,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 86,
+      "Year": 2013,
+      "Value": 2299,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 86,
+      "Year": 2014,
+      "Value": 2450,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 87,
+      "Year": 1975,
+      "Value": 114,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 87,
+      "Year": 1985,
+      "Value": 172,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 87,
+      "Year": 1995,
+      "Value": 183,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 87,
+      "Year": 2005,
+      "Value": 213,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 87,
+      "Year": 2010,
+      "Value": 238,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 87,
+      "Year": 2012,
+      "Value": 253,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 87,
+      "Year": 2013,
+      "Value": 257,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 87,
+      "Year": 2014,
+      "Value": 271,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 88,
+      "Year": 1975,
+      "Value": 1826,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 88,
+      "Year": 1985,
+      "Value": 1419,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 88,
+      "Year": 1995,
+      "Value": 1463,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 88,
+      "Year": 2005,
+      "Value": 1437,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 88,
+      "Year": 2010,
+      "Value": 172,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 88,
+      "Year": 2012,
+      "Value": 1995,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 88,
+      "Year": 2013,
+      "Value": 1936,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 88,
+      "Year": 2014,
+      "Value": 2010,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 89,
+      "Year": 1975,
+      "Value": 484,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 89,
+      "Year": 1985,
+      "Value": 942,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 89,
+      "Year": 1995,
+      "Value": 902,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 89,
+      "Year": 2005,
+      "Value": 2076,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 89,
+      "Year": 2010,
+      "Value": 2127,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 89,
+      "Year": 2012,
+      "Value": 2314,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 89,
+      "Year": 2013,
+      "Value": 2406,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 89,
+      "Year": 2014,
+      "Value": 2860,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 90,
+      "Year": 1975,
+      "Value": 1668,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 90,
+      "Year": 1985,
+      "Value": 1907,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 90,
+      "Year": 1995,
+      "Value": 3880,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 90,
+      "Year": 2005,
+      "Value": 7554,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 90,
+      "Year": 2010,
+      "Value": 7976,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 90,
+      "Year": 2012,
+      "Value": 8984,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 90,
+      "Year": 2013,
+      "Value": 9065,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 90,
+      "Year": 2014,
+      "Value": 9472,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 91,
+      "Year": 1975,
+      "Value": 75390,
+      "ValuePerCapita": 7.2
+    },
+    {
+      "idC": 91,
+      "Year": 1985,
+      "Value": 86105,
+      "ValuePerCapita": 8.2
+    },
+    {
+      "idC": 91,
+      "Year": 1995,
+      "Value": 60370,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 91,
+      "Year": 2005,
+      "Value": 58019,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 91,
+      "Year": 2010,
+      "Value": 50223,
+      "ValuePerCapita": 5
+    },
+    {
+      "idC": 91,
+      "Year": 2012,
+      "Value": 44583,
+      "ValuePerCapita": 4.5
+    },
+    {
+      "idC": 91,
+      "Year": 2013,
+      "Value": 42141,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 91,
+      "Year": 2014,
+      "Value": 42086,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 92,
+      "Year": 1975,
+      "Value": 1617,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 92,
+      "Year": 1985,
+      "Value": 1628,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 92,
+      "Year": 1995,
+      "Value": 1947,
+      "ValuePerCapita": 7.3
+    },
+    {
+      "idC": 92,
+      "Year": 2005,
+      "Value": 2230,
+      "ValuePerCapita": 7.5
+    },
+    {
+      "idC": 92,
+      "Year": 2010,
+      "Value": 1962,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 92,
+      "Year": 2012,
+      "Value": 1800,
+      "ValuePerCapita": 5.6
+    },
+    {
+      "idC": 92,
+      "Year": 2013,
+      "Value": 1900,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 92,
+      "Year": 2014,
+      "Value": 1984,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 93,
+      "Year": 1975,
+      "Value": 252202,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 93,
+      "Year": 1985,
+      "Value": 426674,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 93,
+      "Year": 1995,
+      "Value": 811562,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 93,
+      "Year": 2005,
+      "Value": 1222563,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 93,
+      "Year": 2010,
+      "Value": 1719691,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 93,
+      "Year": 2012,
+      "Value": 2018504,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 93,
+      "Year": 2013,
+      "Value": 2034752,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 93,
+      "Year": 2014,
+      "Value": 2238377,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 94,
+      "Year": 1975,
+      "Value": 53964,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 94,
+      "Year": 1985,
+      "Value": 121246,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 94,
+      "Year": 1995,
+      "Value": 224941,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 94,
+      "Year": 2005,
+      "Value": 341992,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 94,
+      "Year": 2010,
+      "Value": 42876,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 94,
+      "Year": 2012,
+      "Value": 637079,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 94,
+      "Year": 2013,
+      "Value": 490227,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 94,
+      "Year": 2014,
+      "Value": 464176,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 95,
+      "Year": 1975,
+      "Value": 139350,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 95,
+      "Year": 1985,
+      "Value": 160769,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 95,
+      "Year": 1995,
+      "Value": 272942,
+      "ValuePerCapita": 4.6
+    },
+    {
+      "idC": 95,
+      "Year": 2005,
+      "Value": 468808,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 95,
+      "Year": 2010,
+      "Value": 573031,
+      "ValuePerCapita": 7.7
+    },
+    {
+      "idC": 95,
+      "Year": 2012,
+      "Value": 611758,
+      "ValuePerCapita": 8
+    },
+    {
+      "idC": 95,
+      "Year": 2013,
+      "Value": 619778,
+      "ValuePerCapita": 8
+    },
+    {
+      "idC": 95,
+      "Year": 2014,
+      "Value": 649481,
+      "ValuePerCapita": 8.3
+    },
+    {
+      "idC": 96,
+      "Year": 1975,
+      "Value": 33157,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 96,
+      "Year": 1985,
+      "Value": 44675,
+      "ValuePerCapita": 2.9
+    },
+    {
+      "idC": 96,
+      "Year": 1995,
+      "Value": 74348,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 96,
+      "Year": 2005,
+      "Value": 113523,
+      "ValuePerCapita": 4.1
+    },
+    {
+      "idC": 96,
+      "Year": 2010,
+      "Value": 112196,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 96,
+      "Year": 2012,
+      "Value": 152723,
+      "ValuePerCapita": 4.6
+    },
+    {
+      "idC": 96,
+      "Year": 2013,
+      "Value": 165506,
+      "ValuePerCapita": 4.8
+    },
+    {
+      "idC": 96,
+      "Year": 2014,
+      "Value": 168444,
+      "ValuePerCapita": 4.8
+    },
+    {
+      "idC": 97,
+      "Year": 1975,
+      "Value": 22053,
+      "ValuePerCapita": 6.9
+    },
+    {
+      "idC": 97,
+      "Year": 1985,
+      "Value": 26725,
+      "ValuePerCapita": 7.6
+    },
+    {
+      "idC": 97,
+      "Year": 1995,
+      "Value": 32970,
+      "ValuePerCapita": 9.1
+    },
+    {
+      "idC": 97,
+      "Year": 2005,
+      "Value": 43538,
+      "ValuePerCapita": 10.5
+    },
+    {
+      "idC": 97,
+      "Year": 2010,
+      "Value": 40055,
+      "ValuePerCapita": 8.7
+    },
+    {
+      "idC": 97,
+      "Year": 2012,
+      "Value": 35592,
+      "ValuePerCapita": 7.6
+    },
+    {
+      "idC": 97,
+      "Year": 2013,
+      "Value": 34855,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 97,
+      "Year": 2014,
+      "Value": 34066,
+      "ValuePerCapita": 7.3
+    },
+    {
+      "idC": 98,
+      "Year": 1975,
+      "Value": 19648,
+      "ValuePerCapita": 5.9
+    },
+    {
+      "idC": 98,
+      "Year": 1985,
+      "Value": 24870,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 98,
+      "Year": 1995,
+      "Value": 51100,
+      "ValuePerCapita": 9.6
+    },
+    {
+      "idC": 98,
+      "Year": 2005,
+      "Value": 56952,
+      "ValuePerCapita": 8.6
+    },
+    {
+      "idC": 98,
+      "Year": 2010,
+      "Value": 68881,
+      "ValuePerCapita": 9.3
+    },
+    {
+      "idC": 98,
+      "Year": 2012,
+      "Value": 75529,
+      "ValuePerCapita": 9.8
+    },
+    {
+      "idC": 98,
+      "Year": 2013,
+      "Value": 67069,
+      "ValuePerCapita": 8.6
+    },
+    {
+      "idC": 98,
+      "Year": 2014,
+      "Value": 64602,
+      "ValuePerCapita": 8.1
+    },
+    {
+      "idC": 99,
+      "Year": 1975,
+      "Value": 342311,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 99,
+      "Year": 1985,
+      "Value": 372134,
+      "ValuePerCapita": 6.6
+    },
+    {
+      "idC": 99,
+      "Year": 1995,
+      "Value": 430484,
+      "ValuePerCapita": 7.6
+    },
+    {
+      "idC": 99,
+      "Year": 2005,
+      "Value": 473384,
+      "ValuePerCapita": 8.1
+    },
+    {
+      "idC": 99,
+      "Year": 2010,
+      "Value": 405361,
+      "ValuePerCapita": 6.8
+    },
+    {
+      "idC": 99,
+      "Year": 2012,
+      "Value": 369469,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 99,
+      "Year": 2013,
+      "Value": 345318,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 99,
+      "Year": 2014,
+      "Value": 320411,
+      "ValuePerCapita": 5.4
+    },
+    {
+      "idC": 100,
+      "Year": 1975,
+      "Value": 8188,
+      "ValuePerCapita": 4.1
+    },
+    {
+      "idC": 100,
+      "Year": 1985,
+      "Value": 5046,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 100,
+      "Year": 1995,
+      "Value": 9179,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 100,
+      "Year": 2005,
+      "Value": 10499,
+      "ValuePerCapita": 3.9
+    },
+    {
+      "idC": 100,
+      "Year": 2010,
+      "Value": 7297,
+      "ValuePerCapita": 2.7
+    },
+    {
+      "idC": 100,
+      "Year": 2012,
+      "Value": 7462,
+      "ValuePerCapita": 2.7
+    },
+    {
+      "idC": 100,
+      "Year": 2013,
+      "Value": 8093,
+      "ValuePerCapita": 2.9
+    },
+    {
+      "idC": 100,
+      "Year": 2014,
+      "Value": 7422,
+      "ValuePerCapita": 2.7
+    },
+    {
+      "idC": 101,
+      "Year": 1975,
+      "Value": 870073,
+      "ValuePerCapita": 7.8
+    },
+    {
+      "idC": 101,
+      "Year": 1985,
+      "Value": 915397,
+      "ValuePerCapita": 7.6
+    },
+    {
+      "idC": 101,
+      "Year": 1995,
+      "Value": 1183447,
+      "ValuePerCapita": 9.5
+    },
+    {
+      "idC": 101,
+      "Year": 2005,
+      "Value": 1239255,
+      "ValuePerCapita": 9.8
+    },
+    {
+      "idC": 101,
+      "Year": 2010,
+      "Value": 1171625,
+      "ValuePerCapita": 9.2
+    },
+    {
+      "idC": 101,
+      "Year": 2012,
+      "Value": 1230168,
+      "ValuePerCapita": 9.7
+    },
+    {
+      "idC": 101,
+      "Year": 2013,
+      "Value": 1246516,
+      "ValuePerCapita": 9.8
+    },
+    {
+      "idC": 101,
+      "Year": 2014,
+      "Value": 1214048,
+      "ValuePerCapita": 9.6
+    },
+    {
+      "idC": 102,
+      "Year": 1975,
+      "Value": 2494,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 102,
+      "Year": 1985,
+      "Value": 8540,
+      "ValuePerCapita": 3
+    },
+    {
+      "idC": 102,
+      "Year": 1995,
+      "Value": 13557,
+      "ValuePerCapita": 3.1
+    },
+    {
+      "idC": 102,
+      "Year": 2005,
+      "Value": 21060,
+      "ValuePerCapita": 4
+    },
+    {
+      "idC": 102,
+      "Year": 2010,
+      "Value": 21181,
+      "ValuePerCapita": 3.3
+    },
+    {
+      "idC": 102,
+      "Year": 2012,
+      "Value": 24444,
+      "ValuePerCapita": 3.5
+    },
+    {
+      "idC": 102,
+      "Year": 2013,
+      "Value": 24389,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 102,
+      "Year": 2014,
+      "Value": 26450,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 103,
+      "Year": 1995,
+      "Value": 169166,
+      "ValuePerCapita": 10.6
+    },
+    {
+      "idC": 103,
+      "Year": 2005,
+      "Value": 177329,
+      "ValuePerCapita": 11.7
+    },
+    {
+      "idC": 103,
+      "Year": 2010,
+      "Value": 248549,
+      "ValuePerCapita": 15.3
+    },
+    {
+      "idC": 103,
+      "Year": 2012,
+      "Value": 242972,
+      "ValuePerCapita": 14.4
+    },
+    {
+      "idC": 103,
+      "Year": 2013,
+      "Value": 262847,
+      "ValuePerCapita": 15.4
+    },
+    {
+      "idC": 103,
+      "Year": 2014,
+      "Value": 248315,
+      "ValuePerCapita": 14.3
+    },
+    {
+      "idC": 104,
+      "Year": 1975,
+      "Value": 4976,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 104,
+      "Year": 1985,
+      "Value": 3770,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 104,
+      "Year": 1995,
+      "Value": 7554,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 104,
+      "Year": 2005,
+      "Value": 8562,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 104,
+      "Year": 2010,
+      "Value": 12174,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 104,
+      "Year": 2012,
+      "Value": 12515,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 104,
+      "Year": 2013,
+      "Value": 13333,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 104,
+      "Year": 2014,
+      "Value": 14287,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 105,
+      "Year": 1975,
+      "Value": 33,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 105,
+      "Year": 1985,
+      "Value": 22,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 105,
+      "Year": 1995,
+      "Value": 29,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 105,
+      "Year": 2005,
+      "Value": 62,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 105,
+      "Year": 2010,
+      "Value": 62,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 105,
+      "Year": 2012,
+      "Value": 62,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 105,
+      "Year": 2013,
+      "Value": 62,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 105,
+      "Year": 2014,
+      "Value": 62,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 106,
+      "Year": 1975,
+      "Value": 16828,
+      "ValuePerCapita": 16
+    },
+    {
+      "idC": 106,
+      "Year": 1985,
+      "Value": 29160,
+      "ValuePerCapita": 16.7
+    },
+    {
+      "idC": 106,
+      "Year": 1995,
+      "Value": 54822,
+      "ValuePerCapita": 33.7
+    },
+    {
+      "idC": 106,
+      "Year": 2005,
+      "Value": 71547,
+      "ValuePerCapita": 31.6
+    },
+    {
+      "idC": 106,
+      "Year": 2010,
+      "Value": 89625,
+      "ValuePerCapita": 29.3
+    },
+    {
+      "idC": 106,
+      "Year": 2012,
+      "Value": 102335,
+      "ValuePerCapita": 29.9
+    },
+    {
+      "idC": 106,
+      "Year": 2013,
+      "Value": 98345,
+      "ValuePerCapita": 27.4
+    },
+    {
+      "idC": 106,
+      "Year": 2014,
+      "Value": 95408,
+      "ValuePerCapita": 25.4
+    },
+    {
+      "idC": 107,
+      "Year": 1995,
+      "Value": 4529,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 107,
+      "Year": 2005,
+      "Value": 5592,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 107,
+      "Year": 2010,
+      "Value": 6384,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 107,
+      "Year": 2012,
+      "Value": 10132,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 107,
+      "Year": 2013,
+      "Value": 9842,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 107,
+      "Year": 2014,
+      "Value": 9608,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 108,
+      "Year": 1975,
+      "Value": 253,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 108,
+      "Year": 1985,
+      "Value": 202,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 108,
+      "Year": 1995,
+      "Value": 348,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 108,
+      "Year": 2005,
+      "Value": 1404,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 108,
+      "Year": 2010,
+      "Value": 1639,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 108,
+      "Year": 2012,
+      "Value": 1698,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 108,
+      "Year": 2013,
+      "Value": 1577,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 108,
+      "Year": 2014,
+      "Value": 1955,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 109,
+      "Year": 1995,
+      "Value": 9443,
+      "ValuePerCapita": 3.8
+    },
+    {
+      "idC": 109,
+      "Year": 2005,
+      "Value": 7506,
+      "ValuePerCapita": 3.3
+    },
+    {
+      "idC": 109,
+      "Year": 2010,
+      "Value": 8075,
+      "ValuePerCapita": 3.9
+    },
+    {
+      "idC": 109,
+      "Year": 2012,
+      "Value": 7063,
+      "ValuePerCapita": 3.5
+    },
+    {
+      "idC": 109,
+      "Year": 2013,
+      "Value": 7081,
+      "ValuePerCapita": 3.5
+    },
+    {
+      "idC": 109,
+      "Year": 2014,
+      "Value": 6975,
+      "ValuePerCapita": 3.5
+    },
+    {
+      "idC": 110,
+      "Year": 1975,
+      "Value": 6432,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 110,
+      "Year": 1985,
+      "Value": 8056,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 110,
+      "Year": 1995,
+      "Value": 13579,
+      "ValuePerCapita": 3.9
+    },
+    {
+      "idC": 110,
+      "Year": 2005,
+      "Value": 16208,
+      "ValuePerCapita": 4
+    },
+    {
+      "idC": 110,
+      "Year": 2010,
+      "Value": 20047,
+      "ValuePerCapita": 4.6
+    },
+    {
+      "idC": 110,
+      "Year": 2012,
+      "Value": 22633,
+      "ValuePerCapita": 4.6
+    },
+    {
+      "idC": 110,
+      "Year": 2013,
+      "Value": 22581,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 110,
+      "Year": 2014,
+      "Value": 24070,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 111,
+      "Year": 1995,
+      "Value": 1709,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 111,
+      "Year": 2005,
+      "Value": 2013,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 111,
+      "Year": 2010,
+      "Value": 2277,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 111,
+      "Year": 2012,
+      "Value": 2406,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 111,
+      "Year": 2013,
+      "Value": 2435,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 111,
+      "Year": 2014,
+      "Value": 2468,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 112,
+      "Year": 1975,
+      "Value": 1485,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 112,
+      "Year": 1985,
+      "Value": 722,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 112,
+      "Year": 1995,
+      "Value": 326,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 112,
+      "Year": 2005,
+      "Value": 726,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 112,
+      "Year": 2010,
+      "Value": 792,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 112,
+      "Year": 2012,
+      "Value": 1027,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 112,
+      "Year": 2013,
+      "Value": 957,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 112,
+      "Year": 2014,
+      "Value": 935,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 113,
+      "Year": 1975,
+      "Value": 1158,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 113,
+      "Year": 1985,
+      "Value": 31419,
+      "ValuePerCapita": 8.2
+    },
+    {
+      "idC": 113,
+      "Year": 1995,
+      "Value": 46021,
+      "ValuePerCapita": 9.6
+    },
+    {
+      "idC": 113,
+      "Year": 2005,
+      "Value": 52108,
+      "ValuePerCapita": 9
+    },
+    {
+      "idC": 113,
+      "Year": 2010,
+      "Value": 61961,
+      "ValuePerCapita": 9.9
+    },
+    {
+      "idC": 113,
+      "Year": 2012,
+      "Value": 52684,
+      "ValuePerCapita": 8.4
+    },
+    {
+      "idC": 113,
+      "Year": 2013,
+      "Value": 56266,
+      "ValuePerCapita": 9
+    },
+    {
+      "idC": 113,
+      "Year": 2014,
+      "Value": 56996,
+      "ValuePerCapita": 9.1
+    },
+    {
+      "idC": 114,
+      "Year": 2010,
+      "Value": 55,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 114,
+      "Year": 2012,
+      "Value": 48,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 114,
+      "Year": 2013,
+      "Value": 51,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 114,
+      "Year": 2014,
+      "Value": 44,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 115,
+      "Year": 1995,
+      "Value": 16204,
+      "ValuePerCapita": 4.5
+    },
+    {
+      "idC": 115,
+      "Year": 2005,
+      "Value": 13902,
+      "ValuePerCapita": 4.1
+    },
+    {
+      "idC": 115,
+      "Year": 2010,
+      "Value": 13469,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 115,
+      "Year": 2012,
+      "Value": 13832,
+      "ValuePerCapita": 4.6
+    },
+    {
+      "idC": 115,
+      "Year": 2013,
+      "Value": 12640,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 115,
+      "Year": 2014,
+      "Value": 12838,
+      "ValuePerCapita": 4.4
+    },
+    {
+      "idC": 116,
+      "Year": 1975,
+      "Value": 11844,
+      "ValuePerCapita": 33
+    },
+    {
+      "idC": 116,
+      "Year": 1985,
+      "Value": 9168,
+      "ValuePerCapita": 25
+    },
+    {
+      "idC": 116,
+      "Year": 1995,
+      "Value": 8317,
+      "ValuePerCapita": 20.4
+    },
+    {
+      "idC": 116,
+      "Year": 2005,
+      "Value": 11547,
+      "ValuePerCapita": 25.3
+    },
+    {
+      "idC": 116,
+      "Year": 2010,
+      "Value": 10968,
+      "ValuePerCapita": 21.6
+    },
+    {
+      "idC": 116,
+      "Year": 2012,
+      "Value": 10664,
+      "ValuePerCapita": 20
+    },
+    {
+      "idC": 116,
+      "Year": 2013,
+      "Value": 10051,
+      "ValuePerCapita": 18.4
+    },
+    {
+      "idC": 116,
+      "Year": 2014,
+      "Value": 9659,
+      "ValuePerCapita": 17.3
+    },
+    {
+      "idC": 117,
+      "Year": 1975,
+      "Value": 1694,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 117,
+      "Year": 1985,
+      "Value": 1056,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 117,
+      "Year": 1995,
+      "Value": 1265,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 117,
+      "Year": 2005,
+      "Value": 1742,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 117,
+      "Year": 2010,
+      "Value": 1958,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 117,
+      "Year": 2012,
+      "Value": 2706,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 117,
+      "Year": 2013,
+      "Value": 3117,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 117,
+      "Year": 2014,
+      "Value": 3077,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 118,
+      "Year": 1975,
+      "Value": 579,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 118,
+      "Year": 1985,
+      "Value": 557,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 118,
+      "Year": 1995,
+      "Value": 920,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 118,
+      "Year": 2005,
+      "Value": 876,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 118,
+      "Year": 2010,
+      "Value": 1144,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 118,
+      "Year": 2012,
+      "Value": 1096,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 118,
+      "Year": 2013,
+      "Value": 1225,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 118,
+      "Year": 2014,
+      "Value": 1276,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 119,
+      "Year": 1975,
+      "Value": 19446,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 119,
+      "Year": 1985,
+      "Value": 36237,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 119,
+      "Year": 1995,
+      "Value": 121132,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 119,
+      "Year": 2005,
+      "Value": 174487,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 119,
+      "Year": 2010,
+      "Value": 218476,
+      "ValuePerCapita": 7.8
+    },
+    {
+      "idC": 119,
+      "Year": 2012,
+      "Value": 218707,
+      "ValuePerCapita": 7.6
+    },
+    {
+      "idC": 119,
+      "Year": 2013,
+      "Value": 236510,
+      "ValuePerCapita": 8
+    },
+    {
+      "idC": 119,
+      "Year": 2014,
+      "Value": 242821,
+      "ValuePerCapita": 8.1
+    },
+    {
+      "idC": 120,
+      "Year": 1975,
+      "Value": 7,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 120,
+      "Year": 1985,
+      "Value": 66,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 120,
+      "Year": 1995,
+      "Value": 249,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 120,
+      "Year": 2005,
+      "Value": 601,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 120,
+      "Year": 2010,
+      "Value": 935,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 120,
+      "Year": 2012,
+      "Value": 1111,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 120,
+      "Year": 2013,
+      "Value": 1093,
+      "ValuePerCapita": 3.1
+    },
+    {
+      "idC": 120,
+      "Year": 2014,
+      "Value": 1335,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 121,
+      "Year": 1975,
+      "Value": 341,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 121,
+      "Year": 1985,
+      "Value": 407,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 121,
+      "Year": 1995,
+      "Value": 469,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 121,
+      "Year": 2005,
+      "Value": 898,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 121,
+      "Year": 2010,
+      "Value": 964,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 121,
+      "Year": 2012,
+      "Value": 994,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 121,
+      "Year": 2013,
+      "Value": 1027,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 121,
+      "Year": 2014,
+      "Value": 1412,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 122,
+      "Year": 1975,
+      "Value": 667,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 122,
+      "Year": 1985,
+      "Value": 1199,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 122,
+      "Year": 1995,
+      "Value": 2123,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 122,
+      "Year": 2005,
+      "Value": 2699,
+      "ValuePerCapita": 6.6
+    },
+    {
+      "idC": 122,
+      "Year": 2010,
+      "Value": 2560,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 122,
+      "Year": 2012,
+      "Value": 2681,
+      "ValuePerCapita": 6.5
+    },
+    {
+      "idC": 122,
+      "Year": 2013,
+      "Value": 2340,
+      "ValuePerCapita": 5.6
+    },
+    {
+      "idC": 122,
+      "Year": 2014,
+      "Value": 2347,
+      "ValuePerCapita": 5.6
+    },
+    {
+      "idC": 123,
+      "Year": 1995,
+      "Value": 66,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 123,
+      "Year": 2005,
+      "Value": 84,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 123,
+      "Year": 2010,
+      "Value": 103,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 123,
+      "Year": 2012,
+      "Value": 103,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 123,
+      "Year": 2013,
+      "Value": 103,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 123,
+      "Year": 2014,
+      "Value": 103,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 124,
+      "Year": 1975,
+      "Value": 902,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 124,
+      "Year": 1985,
+      "Value": 1210,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 124,
+      "Year": 1995,
+      "Value": 1639,
+      "ValuePerCapita": 4.4
+    },
+    {
+      "idC": 124,
+      "Year": 2005,
+      "Value": 2204,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 124,
+      "Year": 2010,
+      "Value": 2010,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 124,
+      "Year": 2012,
+      "Value": 2215,
+      "ValuePerCapita": 5.6
+    },
+    {
+      "idC": 124,
+      "Year": 2013,
+      "Value": 2211,
+      "ValuePerCapita": 5.6
+    },
+    {
+      "idC": 124,
+      "Year": 2014,
+      "Value": 2299,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 125,
+      "Year": 1975,
+      "Value": 510,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 125,
+      "Year": 1985,
+      "Value": 656,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 125,
+      "Year": 1995,
+      "Value": 1074,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 125,
+      "Year": 2005,
+      "Value": 1588,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 125,
+      "Year": 2010,
+      "Value": 2237,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 125,
+      "Year": 2012,
+      "Value": 2655,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 125,
+      "Year": 2013,
+      "Value": 2670,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 125,
+      "Year": 2014,
+      "Value": 2710,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 126,
+      "Year": 1975,
+      "Value": 590,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 126,
+      "Year": 1985,
+      "Value": 708,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 126,
+      "Year": 1995,
+      "Value": 1830,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 126,
+      "Year": 2005,
+      "Value": 3297,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 126,
+      "Year": 2010,
+      "Value": 3916,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 126,
+      "Year": 2012,
+      "Value": 3968,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 126,
+      "Year": 2013,
+      "Value": 4070,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 126,
+      "Year": 2014,
+      "Value": 4228,
+      "ValuePerCapita": 3.3
+    },
+    {
+      "idC": 127,
+      "Year": 1975,
+      "Value": 164472,
+      "ValuePerCapita": 2.7
+    },
+    {
+      "idC": 127,
+      "Year": 1985,
+      "Value": 288501,
+      "ValuePerCapita": 3.8
+    },
+    {
+      "idC": 127,
+      "Year": 1995,
+      "Value": 332817,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 127,
+      "Year": 2005,
+      "Value": 466362,
+      "ValuePerCapita": 4.4
+    },
+    {
+      "idC": 127,
+      "Year": 2010,
+      "Value": 464308,
+      "ValuePerCapita": 3.9
+    },
+    {
+      "idC": 127,
+      "Year": 2012,
+      "Value": 496325,
+      "ValuePerCapita": 4.1
+    },
+    {
+      "idC": 127,
+      "Year": 2013,
+      "Value": 490340,
+      "ValuePerCapita": 4
+    },
+    {
+      "idC": 127,
+      "Year": 2014,
+      "Value": 480271,
+      "ValuePerCapita": 3.8
+    },
+    {
+      "idC": 128,
+      "Year": 1995,
+      "Value": 106,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 128,
+      "Year": 2005,
+      "Value": 121,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 128,
+      "Year": 2010,
+      "Value": 114,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 128,
+      "Year": 2012,
+      "Value": 136,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 128,
+      "Year": 2013,
+      "Value": 143,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 128,
+      "Year": 2014,
+      "Value": 150,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 129,
+      "Year": 1975,
+      "Value": 4067,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 129,
+      "Year": 1985,
+      "Value": 9028,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 129,
+      "Year": 1995,
+      "Value": 7921,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 129,
+      "Year": 2005,
+      "Value": 8562,
+      "ValuePerCapita": 3.4
+    },
+    {
+      "idC": 129,
+      "Year": 2010,
+      "Value": 13821,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 129,
+      "Year": 2012,
+      "Value": 26226,
+      "ValuePerCapita": 9.4
+    },
+    {
+      "idC": 129,
+      "Year": 2013,
+      "Value": 38753,
+      "ValuePerCapita": 13.6
+    },
+    {
+      "idC": 129,
+      "Year": 2014,
+      "Value": 20840,
+      "ValuePerCapita": 7.2
+    },
+    {
+      "idC": 130,
+      "Year": 2010,
+      "Value": 2582,
+      "ValuePerCapita": 4.1
+    },
+    {
+      "idC": 130,
+      "Year": 2012,
+      "Value": 2336,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 130,
+      "Year": 2013,
+      "Value": 2248,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 130,
+      "Year": 2014,
+      "Value": 2211,
+      "ValuePerCapita": 3.5
+    },
+    {
+      "idC": 131,
+      "Year": 1975,
+      "Value": 11,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 131,
+      "Year": 1985,
+      "Value": 26,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 131,
+      "Year": 1995,
+      "Value": 33,
+      "ValuePerCapita": 3.3
+    },
+    {
+      "idC": 131,
+      "Year": 2005,
+      "Value": 37,
+      "ValuePerCapita": 6.6
+    },
+    {
+      "idC": 131,
+      "Year": 2010,
+      "Value": 66,
+      "ValuePerCapita": 13
+    },
+    {
+      "idC": 131,
+      "Year": 2012,
+      "Value": 44,
+      "ValuePerCapita": 8.5
+    },
+    {
+      "idC": 131,
+      "Year": 2013,
+      "Value": 51,
+      "ValuePerCapita": 10.3
+    },
+    {
+      "idC": 131,
+      "Year": 2014,
+      "Value": 48,
+      "ValuePerCapita": 9.6
+    },
+    {
+      "idC": 132,
+      "Year": 1975,
+      "Value": 11111,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 132,
+      "Year": 1985,
+      "Value": 17866,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 132,
+      "Year": 1995,
+      "Value": 30374,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 132,
+      "Year": 2005,
+      "Value": 45771,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 132,
+      "Year": 2010,
+      "Value": 55958,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 132,
+      "Year": 2012,
+      "Value": 62731,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 132,
+      "Year": 2013,
+      "Value": 59083,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 132,
+      "Year": 2014,
+      "Value": 59864,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 133,
+      "Year": 1975,
+      "Value": 2886,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 133,
+      "Year": 1985,
+      "Value": 1148,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 133,
+      "Year": 1995,
+      "Value": 1115,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 133,
+      "Year": 2005,
+      "Value": 1822,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 133,
+      "Year": 2010,
+      "Value": 2736,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 133,
+      "Year": 2012,
+      "Value": 3121,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 133,
+      "Year": 2013,
+      "Value": 4019,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 133,
+      "Year": 2014,
+      "Value": 8427,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 134,
+      "Year": 1975,
+      "Value": 4587,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 134,
+      "Year": 1985,
+      "Value": 6711,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 134,
+      "Year": 1995,
+      "Value": 6960,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 134,
+      "Year": 2005,
+      "Value": 11599,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 134,
+      "Year": 2010,
+      "Value": 12515,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 134,
+      "Year": 2012,
+      "Value": 11071,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 134,
+      "Year": 2013,
+      "Value": 12860,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 134,
+      "Year": 2014,
+      "Value": 21632,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 135,
+      "Year": 1995,
+      "Value": 1632,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 135,
+      "Year": 2005,
+      "Value": 2310,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 135,
+      "Year": 2010,
+      "Value": 3102,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 135,
+      "Year": 2012,
+      "Value": 3385,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 135,
+      "Year": 2013,
+      "Value": 2629,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 135,
+      "Year": 2014,
+      "Value": 3755,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 136,
+      "Year": 1975,
+      "Value": 103,
+      "ValuePerCapita": 14.8
+    },
+    {
+      "idC": 136,
+      "Year": 1985,
+      "Value": 125,
+      "ValuePerCapita": 15.4
+    },
+    {
+      "idC": 136,
+      "Year": 1995,
+      "Value": 106,
+      "ValuePerCapita": 10.8
+    },
+    {
+      "idC": 136,
+      "Year": 2005,
+      "Value": 62,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 136,
+      "Year": 2010,
+      "Value": 44,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 136,
+      "Year": 2012,
+      "Value": 40,
+      "ValuePerCapita": 4
+    },
+    {
+      "idC": 136,
+      "Year": 2013,
+      "Value": 44,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 136,
+      "Year": 2014,
+      "Value": 48,
+      "ValuePerCapita": 4.8
+    },
+    {
+      "idC": 137,
+      "Year": 1975,
+      "Value": 352,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 137,
+      "Year": 1985,
+      "Value": 678,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 137,
+      "Year": 1995,
+      "Value": 2035,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 137,
+      "Year": 2005,
+      "Value": 3084,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 137,
+      "Year": 2010,
+      "Value": 5057,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 137,
+      "Year": 2012,
+      "Value": 5856,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 137,
+      "Year": 2013,
+      "Value": 6637,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 137,
+      "Year": 2014,
+      "Value": 8031,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 138,
+      "Year": 1975,
+      "Value": 153020,
+      "ValuePerCapita": 11.3
+    },
+    {
+      "idC": 138,
+      "Year": 1985,
+      "Value": 147949,
+      "ValuePerCapita": 10.2
+    },
+    {
+      "idC": 138,
+      "Year": 1995,
+      "Value": 178634,
+      "ValuePerCapita": 11.6
+    },
+    {
+      "idC": 138,
+      "Year": 2005,
+      "Value": 181480,
+      "ValuePerCapita": 11.1
+    },
+    {
+      "idC": 138,
+      "Year": 2010,
+      "Value": 183053,
+      "ValuePerCapita": 11
+    },
+    {
+      "idC": 138,
+      "Year": 2012,
+      "Value": 170310,
+      "ValuePerCapita": 10.2
+    },
+    {
+      "idC": 138,
+      "Year": 2013,
+      "Value": 173255,
+      "ValuePerCapita": 10.3
+    },
+    {
+      "idC": 138,
+      "Year": 2014,
+      "Value": 167303,
+      "ValuePerCapita": 9.9
+    },
+    {
+      "idC": 139,
+      "Year": 1995,
+      "Value": 5225,
+      "ValuePerCapita": 27.5
+    },
+    {
+      "idC": 139,
+      "Year": 2005,
+      "Value": 5735,
+      "ValuePerCapita": 30.8
+    },
+    {
+      "idC": 139,
+      "Year": 2010,
+      "Value": 4562,
+      "ValuePerCapita": 22
+    },
+    {
+      "idC": 140,
+      "Year": 1975,
+      "Value": 2530,
+      "ValuePerCapita": 19.7
+    },
+    {
+      "idC": 140,
+      "Year": 1985,
+      "Value": 1456,
+      "ValuePerCapita": 9.4
+    },
+    {
+      "idC": 140,
+      "Year": 1995,
+      "Value": 2076,
+      "ValuePerCapita": 10.9
+    },
+    {
+      "idC": 140,
+      "Year": 2005,
+      "Value": 2824,
+      "ValuePerCapita": 12.2
+    },
+    {
+      "idC": 140,
+      "Year": 2010,
+      "Value": 3542,
+      "ValuePerCapita": 14.4
+    },
+    {
+      "idC": 140,
+      "Year": 2012,
+      "Value": 3630,
+      "ValuePerCapita": 14.3
+    },
+    {
+      "idC": 140,
+      "Year": 2013,
+      "Value": 4243,
+      "ValuePerCapita": 16.5
+    },
+    {
+      "idC": 140,
+      "Year": 2014,
+      "Value": 4290,
+      "ValuePerCapita": 16.5
+    },
+    {
+      "idC": 141,
+      "Year": 1975,
+      "Value": 18262,
+      "ValuePerCapita": 5.9
+    },
+    {
+      "idC": 141,
+      "Year": 1985,
+      "Value": 21804,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 141,
+      "Year": 1995,
+      "Value": 27132,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 141,
+      "Year": 2005,
+      "Value": 34140,
+      "ValuePerCapita": 8.3
+    },
+    {
+      "idC": 141,
+      "Year": 2010,
+      "Value": 31782,
+      "ValuePerCapita": 7.3
+    },
+    {
+      "idC": 141,
+      "Year": 2012,
+      "Value": 34151,
+      "ValuePerCapita": 7.7
+    },
+    {
+      "idC": 141,
+      "Year": 2013,
+      "Value": 33458,
+      "ValuePerCapita": 7.5
+    },
+    {
+      "idC": 141,
+      "Year": 2014,
+      "Value": 34664,
+      "ValuePerCapita": 7.7
+    },
+    {
+      "idC": 142,
+      "Year": 1975,
+      "Value": 1929,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 142,
+      "Year": 1985,
+      "Value": 1991,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 142,
+      "Year": 1995,
+      "Value": 2780,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 142,
+      "Year": 2005,
+      "Value": 4320,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 142,
+      "Year": 2010,
+      "Value": 4536,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 142,
+      "Year": 2012,
+      "Value": 4620,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 142,
+      "Year": 2013,
+      "Value": 4551,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 142,
+      "Year": 2014,
+      "Value": 4862,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 143,
+      "Year": 1975,
+      "Value": 334,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 143,
+      "Year": 1985,
+      "Value": 997,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 143,
+      "Year": 1995,
+      "Value": 810,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 143,
+      "Year": 2005,
+      "Value": 715,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 143,
+      "Year": 2010,
+      "Value": 1173,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 143,
+      "Year": 2012,
+      "Value": 1867,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 143,
+      "Year": 2013,
+      "Value": 1940,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 143,
+      "Year": 2014,
+      "Value": 2127,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 144,
+      "Year": 1975,
+      "Value": 47396,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 144,
+      "Year": 1985,
+      "Value": 69893,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 144,
+      "Year": 1995,
+      "Value": 35841,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 144,
+      "Year": 2005,
+      "Value": 106068,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 144,
+      "Year": 2010,
+      "Value": 91517,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 144,
+      "Year": 2012,
+      "Value": 98503,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 144,
+      "Year": 2013,
+      "Value": 98136,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 144,
+      "Year": 2014,
+      "Value": 96281,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 145,
+      "Year": 1975,
+      "Value": 4,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 145,
+      "Year": 1985,
+      "Value": 4,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 145,
+      "Year": 1995,
+      "Value": 7,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 145,
+      "Year": 2005,
+      "Value": 4,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 145,
+      "Year": 2010,
+      "Value": 4,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 145,
+      "Year": 2012,
+      "Value": 7,
+      "ValuePerCapita": 3.8
+    },
+    {
+      "idC": 145,
+      "Year": 2013,
+      "Value": 7,
+      "ValuePerCapita": 3.8
+    },
+    {
+      "idC": 145,
+      "Year": 2014,
+      "Value": 11,
+      "ValuePerCapita": 5.7
+    },
+    {
+      "idC": 146,
+      "Year": 1975,
+      "Value": 29673,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 146,
+      "Year": 1985,
+      "Value": 40715,
+      "ValuePerCapita": 9.8
+    },
+    {
+      "idC": 146,
+      "Year": 1995,
+      "Value": 33439,
+      "ValuePerCapita": 7.7
+    },
+    {
+      "idC": 146,
+      "Year": 2005,
+      "Value": 42438,
+      "ValuePerCapita": 9.2
+    },
+    {
+      "idC": 146,
+      "Year": 2010,
+      "Value": 60106,
+      "ValuePerCapita": 12.3
+    },
+    {
+      "idC": 146,
+      "Year": 2012,
+      "Value": 49890,
+      "ValuePerCapita": 9.9
+    },
+    {
+      "idC": 146,
+      "Year": 2013,
+      "Value": 58162,
+      "ValuePerCapita": 11.4
+    },
+    {
+      "idC": 146,
+      "Year": 2014,
+      "Value": 47627,
+      "ValuePerCapita": 9.2
+    },
+    {
+      "idC": 147,
+      "Year": 1975,
+      "Value": 7257,
+      "ValuePerCapita": 8.1
+    },
+    {
+      "idC": 147,
+      "Year": 1985,
+      "Value": 8661,
+      "ValuePerCapita": 5.6
+    },
+    {
+      "idC": 147,
+      "Year": 1995,
+      "Value": 15896,
+      "ValuePerCapita": 7.1
+    },
+    {
+      "idC": 147,
+      "Year": 2005,
+      "Value": 29893,
+      "ValuePerCapita": 12.3
+    },
+    {
+      "idC": 147,
+      "Year": 2010,
+      "Value": 47418,
+      "ValuePerCapita": 16.1
+    },
+    {
+      "idC": 147,
+      "Year": 2012,
+      "Value": 59160,
+      "ValuePerCapita": 16.7
+    },
+    {
+      "idC": 147,
+      "Year": 2013,
+      "Value": 61378,
+      "ValuePerCapita": 15.7
+    },
+    {
+      "idC": 147,
+      "Year": 2014,
+      "Value": 61169,
+      "ValuePerCapita": 14.4
+    },
+    {
+      "idC": 148,
+      "Year": 1975,
+      "Value": 23219,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 148,
+      "Year": 1985,
+      "Value": 47176,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 148,
+      "Year": 1995,
+      "Value": 84484,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 148,
+      "Year": 2005,
+      "Value": 136636,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 148,
+      "Year": 2010,
+      "Value": 161396,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 148,
+      "Year": 2012,
+      "Value": 163497,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 148,
+      "Year": 2013,
+      "Value": 164326,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 148,
+      "Year": 2014,
+      "Value": 166298,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 149,
+      "Year": 1975,
+      "Value": 194,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 149,
+      "Year": 1985,
+      "Value": 161,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 149,
+      "Year": 1995,
+      "Value": 235,
+      "ValuePerCapita": 13.5
+    },
+    {
+      "idC": 149,
+      "Year": 2005,
+      "Value": 260,
+      "ValuePerCapita": 13.1
+    },
+    {
+      "idC": 149,
+      "Year": 2010,
+      "Value": 253,
+      "ValuePerCapita": 12.3
+    },
+    {
+      "idC": 149,
+      "Year": 2012,
+      "Value": 253,
+      "ValuePerCapita": 12.1
+    },
+    {
+      "idC": 149,
+      "Year": 2013,
+      "Value": 257,
+      "ValuePerCapita": 12.3
+    },
+    {
+      "idC": 149,
+      "Year": 2014,
+      "Value": 260,
+      "ValuePerCapita": 12.4
+    },
+    {
+      "idC": 150,
+      "Year": 1975,
+      "Value": 3663,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 150,
+      "Year": 1985,
+      "Value": 2629,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 150,
+      "Year": 1995,
+      "Value": 2985,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 150,
+      "Year": 2005,
+      "Value": 6839,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 150,
+      "Year": 2010,
+      "Value": 9164,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 150,
+      "Year": 2012,
+      "Value": 10114,
+      "ValuePerCapita": 2.7
+    },
+    {
+      "idC": 150,
+      "Year": 2013,
+      "Value": 10719,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 150,
+      "Year": 2014,
+      "Value": 8801,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 151,
+      "Year": 1975,
+      "Value": 1533,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 151,
+      "Year": 1985,
+      "Value": 2127,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 151,
+      "Year": 1995,
+      "Value": 2061,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 151,
+      "Year": 2005,
+      "Value": 4386,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 151,
+      "Year": 2010,
+      "Value": 4763,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 151,
+      "Year": 2012,
+      "Value": 5079,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 151,
+      "Year": 2013,
+      "Value": 6186,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 151,
+      "Year": 2014,
+      "Value": 6318,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 152,
+      "Year": 1975,
+      "Value": 840,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 152,
+      "Year": 1985,
+      "Value": 1551,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 152,
+      "Year": 1995,
+      "Value": 3964,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 152,
+      "Year": 2005,
+      "Value": 3832,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 152,
+      "Year": 2010,
+      "Value": 5097,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 152,
+      "Year": 2012,
+      "Value": 5284,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 152,
+      "Year": 2013,
+      "Value": 5434,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 152,
+      "Year": 2014,
+      "Value": 5702,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 153,
+      "Year": 1975,
+      "Value": 21965,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 153,
+      "Year": 1985,
+      "Value": 19512,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 153,
+      "Year": 1995,
+      "Value": 23883,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 153,
+      "Year": 2005,
+      "Value": 37136,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 153,
+      "Year": 2010,
+      "Value": 57594,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 153,
+      "Year": 2012,
+      "Value": 55071,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 153,
+      "Year": 2013,
+      "Value": 57154,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 153,
+      "Year": 2014,
+      "Value": 61745,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 154,
+      "Year": 1975,
+      "Value": 32526,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 154,
+      "Year": 1985,
+      "Value": 28049,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 154,
+      "Year": 1995,
+      "Value": 60711,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 154,
+      "Year": 2005,
+      "Value": 74832,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 154,
+      "Year": 2010,
+      "Value": 84869,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 154,
+      "Year": 2012,
+      "Value": 91206,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 154,
+      "Year": 2013,
+      "Value": 98129,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 154,
+      "Year": 2014,
+      "Value": 105654,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 155,
+      "Year": 1975,
+      "Value": 375559,
+      "ValuePerCapita": 11
+    },
+    {
+      "idC": 155,
+      "Year": 1985,
+      "Value": 445900,
+      "ValuePerCapita": 12
+    },
+    {
+      "idC": 155,
+      "Year": 1995,
+      "Value": 344214,
+      "ValuePerCapita": 8.9
+    },
+    {
+      "idC": 155,
+      "Year": 2005,
+      "Value": 302539,
+      "ValuePerCapita": 7.9
+    },
+    {
+      "idC": 155,
+      "Year": 2010,
+      "Value": 316264,
+      "ValuePerCapita": 8.2
+    },
+    {
+      "idC": 155,
+      "Year": 2012,
+      "Value": 299931,
+      "ValuePerCapita": 7.8
+    },
+    {
+      "idC": 155,
+      "Year": 2013,
+      "Value": 302278,
+      "ValuePerCapita": 7.8
+    },
+    {
+      "idC": 155,
+      "Year": 2014,
+      "Value": 285740,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 156,
+      "Year": 1975,
+      "Value": 21357,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 156,
+      "Year": 1985,
+      "Value": 27407,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 156,
+      "Year": 1995,
+      "Value": 51870,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 156,
+      "Year": 2005,
+      "Value": 65280,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 156,
+      "Year": 2010,
+      "Value": 48137,
+      "ValuePerCapita": 4.5
+    },
+    {
+      "idC": 156,
+      "Year": 2012,
+      "Value": 46014,
+      "ValuePerCapita": 4.4
+    },
+    {
+      "idC": 156,
+      "Year": 2013,
+      "Value": 45427,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 156,
+      "Year": 2014,
+      "Value": 45053,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 157,
+      "Year": 1975,
+      "Value": 10957,
+      "ValuePerCapita": 67.3
+    },
+    {
+      "idC": 157,
+      "Year": 1985,
+      "Value": 12405,
+      "ValuePerCapita": 33.7
+    },
+    {
+      "idC": 157,
+      "Year": 1995,
+      "Value": 31789,
+      "ValuePerCapita": 63.4
+    },
+    {
+      "idC": 157,
+      "Year": 2005,
+      "Value": 50957,
+      "ValuePerCapita": 62.1
+    },
+    {
+      "idC": 157,
+      "Year": 2010,
+      "Value": 72508,
+      "ValuePerCapita": 41.1
+    },
+    {
+      "idC": 157,
+      "Year": 2012,
+      "Value": 94125,
+      "ValuePerCapita": 46.7
+    },
+    {
+      "idC": 157,
+      "Year": 2013,
+      "Value": 85023,
+      "ValuePerCapita": 40.4
+    },
+    {
+      "idC": 157,
+      "Year": 2014,
+      "Value": 107854,
+      "ValuePerCapita": 49.7
+    },
+    {
+      "idC": 158,
+      "Year": 1975,
+      "Value": 81829,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 158,
+      "Year": 1985,
+      "Value": 178334,
+      "ValuePerCapita": 4.4
+    },
+    {
+      "idC": 158,
+      "Year": 1995,
+      "Value": 374771,
+      "ValuePerCapita": 8.4
+    },
+    {
+      "idC": 158,
+      "Year": 2005,
+      "Value": 462922,
+      "ValuePerCapita": 9.8
+    },
+    {
+      "idC": 158,
+      "Year": 2010,
+      "Value": 566717,
+      "ValuePerCapita": 11.6
+    },
+    {
+      "idC": 158,
+      "Year": 2012,
+      "Value": 583966,
+      "ValuePerCapita": 11.8
+    },
+    {
+      "idC": 158,
+      "Year": 2013,
+      "Value": 592499,
+      "ValuePerCapita": 11.9
+    },
+    {
+      "idC": 158,
+      "Year": 2014,
+      "Value": 587156,
+      "ValuePerCapita": 11.7
+    },
+    {
+      "idC": 159,
+      "Year": 1995,
+      "Value": 11192,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 159,
+      "Year": 2005,
+      "Value": 4895,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 159,
+      "Year": 2010,
+      "Value": 4932,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 159,
+      "Year": 2012,
+      "Value": 4925,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 159,
+      "Year": 2013,
+      "Value": 4998,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 159,
+      "Year": 2014,
+      "Value": 4932,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 160,
+      "Year": 1975,
+      "Value": 484,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 160,
+      "Year": 1985,
+      "Value": 994,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 160,
+      "Year": 1995,
+      "Value": 1764,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 160,
+      "Year": 2005,
+      "Value": 3447,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 160,
+      "Year": 2010,
+      "Value": 4169,
+      "ValuePerCapita": 5
+    },
+    {
+      "idC": 160,
+      "Year": 2012,
+      "Value": 4250,
+      "ValuePerCapita": 5
+    },
+    {
+      "idC": 160,
+      "Year": 2013,
+      "Value": 4100,
+      "ValuePerCapita": 4.8
+    },
+    {
+      "idC": 160,
+      "Year": 2014,
+      "Value": 4173,
+      "ValuePerCapita": 4.9
+    },
+    {
+      "idC": 161,
+      "Year": 1975,
+      "Value": 162257,
+      "ValuePerCapita": 7.6
+    },
+    {
+      "idC": 161,
+      "Year": 1985,
+      "Value": 194344,
+      "ValuePerCapita": 8.5
+    },
+    {
+      "idC": 161,
+      "Year": 1995,
+      "Value": 126049,
+      "ValuePerCapita": 5.6
+    },
+    {
+      "idC": 161,
+      "Year": 2005,
+      "Value": 96457,
+      "ValuePerCapita": 4.4
+    },
+    {
+      "idC": 161,
+      "Year": 2010,
+      "Value": 79413,
+      "ValuePerCapita": 3.9
+    },
+    {
+      "idC": 161,
+      "Year": 2012,
+      "Value": 81723,
+      "ValuePerCapita": 4.1
+    },
+    {
+      "idC": 161,
+      "Year": 2013,
+      "Value": 70945,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 161,
+      "Year": 2014,
+      "Value": 70003,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 162,
+      "Year": 1995,
+      "Value": 1631474,
+      "ValuePerCapita": 11
+    },
+    {
+      "idC": 162,
+      "Year": 2005,
+      "Value": 1615090,
+      "ValuePerCapita": 11.2
+    },
+    {
+      "idC": 162,
+      "Year": 2010,
+      "Value": 1670531,
+      "ValuePerCapita": 11.7
+    },
+    {
+      "idC": 162,
+      "Year": 2012,
+      "Value": 1830830,
+      "ValuePerCapita": 12.8
+    },
+    {
+      "idC": 162,
+      "Year": 2013,
+      "Value": 1778561,
+      "ValuePerCapita": 12.4
+    },
+    {
+      "idC": 162,
+      "Year": 2014,
+      "Value": 1705346,
+      "ValuePerCapita": 11.9
+    },
+    {
+      "idC": 163,
+      "Year": 1975,
+      "Value": 176,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 163,
+      "Year": 1985,
+      "Value": 616,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 163,
+      "Year": 1995,
+      "Value": 462,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 163,
+      "Year": 2005,
+      "Value": 528,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 163,
+      "Year": 2010,
+      "Value": 590,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 163,
+      "Year": 2012,
+      "Value": 737,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 163,
+      "Year": 2013,
+      "Value": 803,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 163,
+      "Year": 2014,
+      "Value": 840,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 164,
+      "Year": 1985,
+      "Value": 4,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 164,
+      "Year": 1995,
+      "Value": 11,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 164,
+      "Year": 2005,
+      "Value": 11,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 164,
+      "Year": 2010,
+      "Value": 11,
+      "ValuePerCapita": 2.9
+    },
+    {
+      "idC": 164,
+      "Year": 2012,
+      "Value": 11,
+      "ValuePerCapita": 3
+    },
+    {
+      "idC": 164,
+      "Year": 2013,
+      "Value": 11,
+      "ValuePerCapita": 3
+    },
+    {
+      "idC": 164,
+      "Year": 2014,
+      "Value": 11,
+      "ValuePerCapita": 3.1
+    },
+    {
+      "idC": 165,
+      "Year": 1985,
+      "Value": 51,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 165,
+      "Year": 1995,
+      "Value": 128,
+      "ValuePerCapita": 3
+    },
+    {
+      "idC": 165,
+      "Year": 2005,
+      "Value": 198,
+      "ValuePerCapita": 4
+    },
+    {
+      "idC": 165,
+      "Year": 2010,
+      "Value": 220,
+      "ValuePerCapita": 4.2
+    },
+    {
+      "idC": 165,
+      "Year": 2012,
+      "Value": 220,
+      "ValuePerCapita": 4.1
+    },
+    {
+      "idC": 165,
+      "Year": 2013,
+      "Value": 224,
+      "ValuePerCapita": 4.1
+    },
+    {
+      "idC": 165,
+      "Year": 2014,
+      "Value": 231,
+      "ValuePerCapita": 4.2
+    },
+    {
+      "idC": 166,
+      "Year": 1975,
+      "Value": 77,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 166,
+      "Year": 1985,
+      "Value": 128,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 166,
+      "Year": 1995,
+      "Value": 312,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 166,
+      "Year": 2005,
+      "Value": 367,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 166,
+      "Year": 2010,
+      "Value": 403,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 166,
+      "Year": 2012,
+      "Value": 407,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 166,
+      "Year": 2013,
+      "Value": 407,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 166,
+      "Year": 2014,
+      "Value": 407,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 167,
+      "Year": 1975,
+      "Value": 33,
+      "ValuePerCapita": 5.7
+    },
+    {
+      "idC": 167,
+      "Year": 1985,
+      "Value": 33,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 167,
+      "Year": 1995,
+      "Value": 70,
+      "ValuePerCapita": 11.2
+    },
+    {
+      "idC": 167,
+      "Year": 2005,
+      "Value": 66,
+      "ValuePerCapita": 10.5
+    },
+    {
+      "idC": 167,
+      "Year": 2010,
+      "Value": 70,
+      "ValuePerCapita": 11.3
+    },
+    {
+      "idC": 167,
+      "Year": 2012,
+      "Value": 70,
+      "ValuePerCapita": 11.3
+    },
+    {
+      "idC": 167,
+      "Year": 2013,
+      "Value": 73,
+      "ValuePerCapita": 11.7
+    },
+    {
+      "idC": 167,
+      "Year": 2014,
+      "Value": 77,
+      "ValuePerCapita": 12.2
+    },
+    {
+      "idC": 168,
+      "Year": 1975,
+      "Value": 33,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 168,
+      "Year": 1985,
+      "Value": 66,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 168,
+      "Year": 1995,
+      "Value": 128,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 168,
+      "Year": 2005,
+      "Value": 220,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 168,
+      "Year": 2010,
+      "Value": 220,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 168,
+      "Year": 2012,
+      "Value": 253,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 168,
+      "Year": 2013,
+      "Value": 209,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 168,
+      "Year": 2014,
+      "Value": 209,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 169,
+      "Year": 1975,
+      "Value": 59,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 169,
+      "Year": 1985,
+      "Value": 114,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 169,
+      "Year": 1995,
+      "Value": 117,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 169,
+      "Year": 2005,
+      "Value": 161,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 169,
+      "Year": 2010,
+      "Value": 187,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 169,
+      "Year": 2012,
+      "Value": 198,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 169,
+      "Year": 2013,
+      "Value": 198,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 169,
+      "Year": 2014,
+      "Value": 198,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 170,
+      "Year": 1975,
+      "Value": 18,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 170,
+      "Year": 1985,
+      "Value": 55,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 170,
+      "Year": 1995,
+      "Value": 48,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 170,
+      "Year": 2005,
+      "Value": 77,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 170,
+      "Year": 2010,
+      "Value": 99,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 170,
+      "Year": 2012,
+      "Value": 114,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 170,
+      "Year": 2013,
+      "Value": 114,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 170,
+      "Year": 2014,
+      "Value": 114,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 171,
+      "Year": 1975,
+      "Value": 83336,
+      "ValuePerCapita": 11.3
+    },
+    {
+      "idC": 171,
+      "Year": 1985,
+      "Value": 172653,
+      "ValuePerCapita": 13.1
+    },
+    {
+      "idC": 171,
+      "Year": 1995,
+      "Value": 235161,
+      "ValuePerCapita": 12.7
+    },
+    {
+      "idC": 171,
+      "Year": 2005,
+      "Value": 397642,
+      "ValuePerCapita": 16.5
+    },
+    {
+      "idC": 171,
+      "Year": 2010,
+      "Value": 518492,
+      "ValuePerCapita": 18.4
+    },
+    {
+      "idC": 171,
+      "Year": 2012,
+      "Value": 564843,
+      "ValuePerCapita": 19.1
+    },
+    {
+      "idC": 171,
+      "Year": 2013,
+      "Value": 541048,
+      "ValuePerCapita": 17.9
+    },
+    {
+      "idC": 171,
+      "Year": 2014,
+      "Value": 601047,
+      "ValuePerCapita": 19.5
+    },
+    {
+      "idC": 172,
+      "Year": 1975,
+      "Value": 2582,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 172,
+      "Year": 1985,
+      "Value": 2677,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 172,
+      "Year": 1995,
+      "Value": 3495,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 172,
+      "Year": 2005,
+      "Value": 5812,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 172,
+      "Year": 2010,
+      "Value": 7745,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 172,
+      "Year": 2012,
+      "Value": 7913,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 172,
+      "Year": 2013,
+      "Value": 8423,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 172,
+      "Year": 2014,
+      "Value": 8856,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 173,
+      "Year": 2010,
+      "Value": 45955,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 173,
+      "Year": 2012,
+      "Value": 44063,
+      "ValuePerCapita": 4.9
+    },
+    {
+      "idC": 173,
+      "Year": 2013,
+      "Value": 44884,
+      "ValuePerCapita": 5
+    },
+    {
+      "idC": 173,
+      "Year": 2014,
+      "Value": 37667,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 174,
+      "Year": 1995,
+      "Value": 40579,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 174,
+      "Year": 2005,
+      "Value": 52302,
+      "ValuePerCapita": 5
+    },
+    {
+      "idC": 175,
+      "Year": 1975,
+      "Value": 59,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 175,
+      "Year": 1985,
+      "Value": 150,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 175,
+      "Year": 1995,
+      "Value": 198,
+      "ValuePerCapita": 2.7
+    },
+    {
+      "idC": 175,
+      "Year": 2005,
+      "Value": 689,
+      "ValuePerCapita": 8.3
+    },
+    {
+      "idC": 175,
+      "Year": 2010,
+      "Value": 444,
+      "ValuePerCapita": 4.8
+    },
+    {
+      "idC": 175,
+      "Year": 2012,
+      "Value": 440,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 175,
+      "Year": 2013,
+      "Value": 403,
+      "ValuePerCapita": 4.2
+    },
+    {
+      "idC": 175,
+      "Year": 2014,
+      "Value": 495,
+      "ValuePerCapita": 5.2
+    },
+    {
+      "idC": 176,
+      "Year": 1975,
+      "Value": 524,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 176,
+      "Year": 1985,
+      "Value": 664,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 176,
+      "Year": 1995,
+      "Value": 400,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 176,
+      "Year": 2005,
+      "Value": 546,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 176,
+      "Year": 2010,
+      "Value": 726,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 176,
+      "Year": 2012,
+      "Value": 103,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 176,
+      "Year": 2013,
+      "Value": 1192,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 176,
+      "Year": 2014,
+      "Value": 1309,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 177,
+      "Year": 1975,
+      "Value": 24543,
+      "ValuePerCapita": 10.9
+    },
+    {
+      "idC": 177,
+      "Year": 1985,
+      "Value": 33417,
+      "ValuePerCapita": 12.3
+    },
+    {
+      "idC": 177,
+      "Year": 1995,
+      "Value": 42174,
+      "ValuePerCapita": 12.1
+    },
+    {
+      "idC": 177,
+      "Year": 2005,
+      "Value": 30359,
+      "ValuePerCapita": 7.1
+    },
+    {
+      "idC": 177,
+      "Year": 2010,
+      "Value": 55643,
+      "ValuePerCapita": 11
+    },
+    {
+      "idC": 177,
+      "Year": 2012,
+      "Value": 36373,
+      "ValuePerCapita": 6.9
+    },
+    {
+      "idC": 177,
+      "Year": 2013,
+      "Value": 55676,
+      "ValuePerCapita": 10.3
+    },
+    {
+      "idC": 177,
+      "Year": 2014,
+      "Value": 56373,
+      "ValuePerCapita": 10.2
+    },
+    {
+      "idC": 178,
+      "Year": 2012,
+      "Value": 697,
+      "ValuePerCapita": 19.8
+    },
+    {
+      "idC": 178,
+      "Year": 2013,
+      "Value": 715,
+      "ValuePerCapita": 19.6
+    },
+    {
+      "idC": 178,
+      "Year": 2014,
+      "Value": 733,
+      "ValuePerCapita": 19.5
+    },
+    {
+      "idC": 179,
+      "Year": 1995,
+      "Value": 42115,
+      "ValuePerCapita": 7.8
+    },
+    {
+      "idC": 179,
+      "Year": 2005,
+      "Value": 39358,
+      "ValuePerCapita": 7.3
+    },
+    {
+      "idC": 179,
+      "Year": 2010,
+      "Value": 36241,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 179,
+      "Year": 2012,
+      "Value": 32765,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 179,
+      "Year": 2013,
+      "Value": 33091,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 179,
+      "Year": 2014,
+      "Value": 30678,
+      "ValuePerCapita": 5.6
+    },
+    {
+      "idC": 180,
+      "Year": 1995,
+      "Value": 14404,
+      "ValuePerCapita": 7.3
+    },
+    {
+      "idC": 180,
+      "Year": 2005,
+      "Value": 15867,
+      "ValuePerCapita": 7.9
+    },
+    {
+      "idC": 180,
+      "Year": 2010,
+      "Value": 15335,
+      "ValuePerCapita": 7.5
+    },
+    {
+      "idC": 180,
+      "Year": 2012,
+      "Value": 14782,
+      "ValuePerCapita": 7.2
+    },
+    {
+      "idC": 180,
+      "Year": 2013,
+      "Value": 14151,
+      "ValuePerCapita": 6.9
+    },
+    {
+      "idC": 180,
+      "Year": 2014,
+      "Value": 12812,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 181,
+      "Year": 1975,
+      "Value": 59,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 181,
+      "Year": 1985,
+      "Value": 150,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 181,
+      "Year": 1995,
+      "Value": 143,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 181,
+      "Year": 2005,
+      "Value": 161,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 181,
+      "Year": 2010,
+      "Value": 198,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 181,
+      "Year": 2012,
+      "Value": 198,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 181,
+      "Year": 2013,
+      "Value": 202,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 181,
+      "Year": 2014,
+      "Value": 202,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 182,
+      "Year": 1975,
+      "Value": 502,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 182,
+      "Year": 1985,
+      "Value": 858,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 182,
+      "Year": 1995,
+      "Value": 590,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 182,
+      "Year": 2005,
+      "Value": 594,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 182,
+      "Year": 2010,
+      "Value": 612,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 182,
+      "Year": 2012,
+      "Value": 609,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 182,
+      "Year": 2013,
+      "Value": 609,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 182,
+      "Year": 2014,
+      "Value": 609,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 183,
+      "Year": 1975,
+      "Value": 185202,
+      "ValuePerCapita": 7.2
+    },
+    {
+      "idC": 183,
+      "Year": 1985,
+      "Value": 324214,
+      "ValuePerCapita": 9.8
+    },
+    {
+      "idC": 183,
+      "Year": 1995,
+      "Value": 362259,
+      "ValuePerCapita": 8.8
+    },
+    {
+      "idC": 183,
+      "Year": 2005,
+      "Value": 416916,
+      "ValuePerCapita": 8.7
+    },
+    {
+      "idC": 183,
+      "Year": 2010,
+      "Value": 474099,
+      "ValuePerCapita": 9.2
+    },
+    {
+      "idC": 183,
+      "Year": 2012,
+      "Value": 468771,
+      "ValuePerCapita": 8.9
+    },
+    {
+      "idC": 183,
+      "Year": 2013,
+      "Value": 466376,
+      "ValuePerCapita": 8.7
+    },
+    {
+      "idC": 183,
+      "Year": 2014,
+      "Value": 489772,
+      "ValuePerCapita": 9.1
+    },
+    {
+      "idC": 184,
+      "Year": 2012,
+      "Value": 1331,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 184,
+      "Year": 2013,
+      "Value": 1448,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 184,
+      "Year": 2014,
+      "Value": 1496,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 185,
+      "Year": 1975,
+      "Value": 181645,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 185,
+      "Year": 1985,
+      "Value": 201234,
+      "ValuePerCapita": 5.2
+    },
+    {
+      "idC": 185,
+      "Year": 1995,
+      "Value": 241611,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 185,
+      "Year": 2005,
+      "Value": 353462,
+      "ValuePerCapita": 8.1
+    },
+    {
+      "idC": 185,
+      "Year": 2010,
+      "Value": 270911,
+      "ValuePerCapita": 5.8
+    },
+    {
+      "idC": 185,
+      "Year": 2012,
+      "Value": 264779,
+      "ValuePerCapita": 5.7
+    },
+    {
+      "idC": 185,
+      "Year": 2013,
+      "Value": 237035,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 185,
+      "Year": 2014,
+      "Value": 233977,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 186,
+      "Year": 1975,
+      "Value": 2897,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 186,
+      "Year": 1985,
+      "Value": 3957,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 186,
+      "Year": 1995,
+      "Value": 5904,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 186,
+      "Year": 2005,
+      "Value": 12101,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 186,
+      "Year": 2010,
+      "Value": 13264,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 186,
+      "Year": 2012,
+      "Value": 16032,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 186,
+      "Year": 2013,
+      "Value": 15489,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 186,
+      "Year": 2014,
+      "Value": 18394,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 187,
+      "Year": 1995,
+      "Value": 946,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 187,
+      "Year": 2005,
+      "Value": 2743,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 187,
+      "Year": 2010,
+      "Value": 2035,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 187,
+      "Year": 2012,
+      "Value": 2200,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 187,
+      "Year": 2013,
+      "Value": 2439,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 187,
+      "Year": 2014,
+      "Value": 2838,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 188,
+      "Year": 2012,
+      "Value": 14642,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 188,
+      "Year": 2013,
+      "Value": 15475,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 188,
+      "Year": 2014,
+      "Value": 15365,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 189,
+      "Year": 1975,
+      "Value": 4239,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 189,
+      "Year": 1985,
+      "Value": 4074,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 189,
+      "Year": 1995,
+      "Value": 4298,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 189,
+      "Year": 2005,
+      "Value": 10983,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 189,
+      "Year": 2010,
+      "Value": 15940,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 190,
+      "Year": 1975,
+      "Value": 2021,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 190,
+      "Year": 1985,
+      "Value": 1599,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 190,
+      "Year": 1995,
+      "Value": 2065,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 190,
+      "Year": 2005,
+      "Value": 1595,
+      "ValuePerCapita": 3.2
+    },
+    {
+      "idC": 190,
+      "Year": 2010,
+      "Value": 2402,
+      "ValuePerCapita": 4.6
+    },
+    {
+      "idC": 190,
+      "Year": 2012,
+      "Value": 2259,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 190,
+      "Year": 2013,
+      "Value": 1918,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 190,
+      "Year": 2014,
+      "Value": 1991,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 191,
+      "Year": 1975,
+      "Value": 337,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 191,
+      "Year": 1985,
+      "Value": 440,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 191,
+      "Year": 1995,
+      "Value": 455,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 191,
+      "Year": 2005,
+      "Value": 1019,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 191,
+      "Year": 2010,
+      "Value": 1038,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 191,
+      "Year": 2012,
+      "Value": 1206,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 191,
+      "Year": 2013,
+      "Value": 1089,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 191,
+      "Year": 2014,
+      "Value": 1203,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 192,
+      "Year": 1975,
+      "Value": 80824,
+      "ValuePerCapita": 9.9
+    },
+    {
+      "idC": 192,
+      "Year": 1985,
+      "Value": 62394,
+      "ValuePerCapita": 7.5
+    },
+    {
+      "idC": 192,
+      "Year": 1995,
+      "Value": 55155,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 192,
+      "Year": 2005,
+      "Value": 51562,
+      "ValuePerCapita": 5.7
+    },
+    {
+      "idC": 192,
+      "Year": 2010,
+      "Value": 52024,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 192,
+      "Year": 2012,
+      "Value": 47048,
+      "ValuePerCapita": 4.9
+    },
+    {
+      "idC": 192,
+      "Year": 2013,
+      "Value": 44847,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 192,
+      "Year": 2014,
+      "Value": 43421,
+      "ValuePerCapita": 4.5
+    },
+    {
+      "idC": 193,
+      "Year": 1975,
+      "Value": 39098,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 193,
+      "Year": 1985,
+      "Value": 39827,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 193,
+      "Year": 1995,
+      "Value": 39226,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 193,
+      "Year": 2005,
+      "Value": 41338,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 193,
+      "Year": 2010,
+      "Value": 38995,
+      "ValuePerCapita": 5
+    },
+    {
+      "idC": 193,
+      "Year": 2012,
+      "Value": 37774,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 193,
+      "Year": 2013,
+      "Value": 40227,
+      "ValuePerCapita": 5
+    },
+    {
+      "idC": 193,
+      "Year": 2014,
+      "Value": 35306,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 194,
+      "Year": 1975,
+      "Value": 11184,
+      "ValuePerCapita": 1.5
+    },
+    {
+      "idC": 194,
+      "Year": 1985,
+      "Value": 29651,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 194,
+      "Year": 1995,
+      "Value": 41664,
+      "ValuePerCapita": 2.9
+    },
+    {
+      "idC": 194,
+      "Year": 2005,
+      "Value": 50627,
+      "ValuePerCapita": 2.8
+    },
+    {
+      "idC": 194,
+      "Year": 2010,
+      "Value": 61606,
+      "ValuePerCapita": 3
+    },
+    {
+      "idC": 194,
+      "Year": 2012,
+      "Value": 44730,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 194,
+      "Year": 2013,
+      "Value": 36439,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 194,
+      "Year": 2014,
+      "Value": 30704,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 195,
+      "Year": 1995,
+      "Value": 2450,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 195,
+      "Year": 2005,
+      "Value": 2442,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 195,
+      "Year": 2010,
+      "Value": 2545,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 195,
+      "Year": 2012,
+      "Value": 2934,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 195,
+      "Year": 2013,
+      "Value": 3480,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 195,
+      "Year": 2014,
+      "Value": 5189,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 197,
+      "Year": 1975,
+      "Value": 24408,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 197,
+      "Year": 1985,
+      "Value": 48672,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 197,
+      "Year": 1995,
+      "Value": 161154,
+      "ValuePerCapita": 2.7
+    },
+    {
+      "idC": 197,
+      "Year": 2005,
+      "Value": 247467,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 197,
+      "Year": 2010,
+      "Value": 281926,
+      "ValuePerCapita": 4.2
+    },
+    {
+      "idC": 197,
+      "Year": 2012,
+      "Value": 296598,
+      "ValuePerCapita": 4.4
+    },
+    {
+      "idC": 197,
+      "Year": 2013,
+      "Value": 300089,
+      "ValuePerCapita": 4.4
+    },
+    {
+      "idC": 197,
+      "Year": 2014,
+      "Value": 316213,
+      "ValuePerCapita": 4.7
+    },
+    {
+      "idC": 196,
+      "Year": 1995,
+      "Value": 10840,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 196,
+      "Year": 2005,
+      "Value": 11280,
+      "ValuePerCapita": 5.5
+    },
+    {
+      "idC": 196,
+      "Year": 2010,
+      "Value": 8603,
+      "ValuePerCapita": 4.2
+    },
+    {
+      "idC": 196,
+      "Year": 2012,
+      "Value": 8966,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 196,
+      "Year": 2013,
+      "Value": 7847,
+      "ValuePerCapita": 3.8
+    },
+    {
+      "idC": 196,
+      "Year": 2014,
+      "Value": 7510,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 198,
+      "Year": 2005,
+      "Value": 176,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 198,
+      "Year": 2010,
+      "Value": 235,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 198,
+      "Year": 2012,
+      "Value": 293,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 198,
+      "Year": 2013,
+      "Value": 440,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 198,
+      "Year": 2014,
+      "Value": 469,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 199,
+      "Year": 1975,
+      "Value": 312,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 199,
+      "Year": 1985,
+      "Value": 550,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 199,
+      "Year": 1995,
+      "Value": 953,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 199,
+      "Year": 2005,
+      "Value": 1338,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 199,
+      "Year": 2010,
+      "Value": 2640,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 199,
+      "Year": 2012,
+      "Value": 2486,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 199,
+      "Year": 2013,
+      "Value": 2659,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 199,
+      "Year": 2014,
+      "Value": 2622,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 200,
+      "Year": 1975,
+      "Value": 33,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 200,
+      "Year": 1985,
+      "Value": 48,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 200,
+      "Year": 1995,
+      "Value": 95,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 200,
+      "Year": 2005,
+      "Value": 114,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 200,
+      "Year": 2010,
+      "Value": 117,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 200,
+      "Year": 2012,
+      "Value": 106,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 200,
+      "Year": 2013,
+      "Value": 114,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 200,
+      "Year": 2014,
+      "Value": 121,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 202,
+      "Year": 1975,
+      "Value": 9622,
+      "ValuePerCapita": 9.5
+    },
+    {
+      "idC": 202,
+      "Year": 1985,
+      "Value": 20755,
+      "ValuePerCapita": 17.7
+    },
+    {
+      "idC": 202,
+      "Year": 1995,
+      "Value": 17022,
+      "ValuePerCapita": 13.5
+    },
+    {
+      "idC": 202,
+      "Year": 2005,
+      "Value": 38151,
+      "ValuePerCapita": 29
+    },
+    {
+      "idC": 202,
+      "Year": 2010,
+      "Value": 47935,
+      "ValuePerCapita": 36.1
+    },
+    {
+      "idC": 202,
+      "Year": 2012,
+      "Value": 45419,
+      "ValuePerCapita": 33.8
+    },
+    {
+      "idC": 202,
+      "Year": 2013,
+      "Value": 46542,
+      "ValuePerCapita": 34.5
+    },
+    {
+      "idC": 202,
+      "Year": 2014,
+      "Value": 46274,
+      "ValuePerCapita": 34.2
+    },
+    {
+      "idC": 203,
+      "Year": 1975,
+      "Value": 5548,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 203,
+      "Year": 1985,
+      "Value": 11940,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 203,
+      "Year": 1995,
+      "Value": 15735,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 203,
+      "Year": 2005,
+      "Value": 22662,
+      "ValuePerCapita": 2.3
+    },
+    {
+      "idC": 203,
+      "Year": 2010,
+      "Value": 27660,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 203,
+      "Year": 2012,
+      "Value": 27004,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 203,
+      "Year": 2013,
+      "Value": 27668,
+      "ValuePerCapita": 2.5
+    },
+    {
+      "idC": 203,
+      "Year": 2014,
+      "Value": 28830,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 204,
+      "Year": 1975,
+      "Value": 65698,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 204,
+      "Year": 1985,
+      "Value": 106717,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 204,
+      "Year": 1995,
+      "Value": 171975,
+      "ValuePerCapita": 2.9
+    },
+    {
+      "idC": 204,
+      "Year": 2005,
+      "Value": 237391,
+      "ValuePerCapita": 3.5
+    },
+    {
+      "idC": 204,
+      "Year": 2010,
+      "Value": 298002,
+      "ValuePerCapita": 4.1
+    },
+    {
+      "idC": 204,
+      "Year": 2012,
+      "Value": 329561,
+      "ValuePerCapita": 4.4
+    },
+    {
+      "idC": 204,
+      "Year": 2013,
+      "Value": 324772,
+      "ValuePerCapita": 4.3
+    },
+    {
+      "idC": 204,
+      "Year": 2014,
+      "Value": 345981,
+      "ValuePerCapita": 4.5
+    },
+    {
+      "idC": 205,
+      "Year": 1995,
+      "Value": 34000,
+      "ValuePerCapita": 8.1
+    },
+    {
+      "idC": 205,
+      "Year": 2005,
+      "Value": 48338,
+      "ValuePerCapita": 10.2
+    },
+    {
+      "idC": 205,
+      "Year": 2010,
+      "Value": 57290,
+      "ValuePerCapita": 11.4
+    },
+    {
+      "idC": 205,
+      "Year": 2012,
+      "Value": 64873,
+      "ValuePerCapita": 12.5
+    },
+    {
+      "idC": 205,
+      "Year": 2013,
+      "Value": 66736,
+      "ValuePerCapita": 12.7
+    },
+    {
+      "idC": 205,
+      "Year": 2014,
+      "Value": 68423,
+      "ValuePerCapita": 12.9
+    },
+    {
+      "idC": 206,
+      "Year": 1995,
+      "Value": 48,
+      "ValuePerCapita": 3
+    },
+    {
+      "idC": 206,
+      "Year": 2005,
+      "Value": 121,
+      "ValuePerCapita": 4
+    },
+    {
+      "idC": 206,
+      "Year": 2010,
+      "Value": 191,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 206,
+      "Year": 2012,
+      "Value": 198,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 206,
+      "Year": 2013,
+      "Value": 198,
+      "ValuePerCapita": 6
+    },
+    {
+      "idC": 206,
+      "Year": 2014,
+      "Value": 205,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 208,
+      "Year": 1975,
+      "Value": 1133,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 208,
+      "Year": 1985,
+      "Value": 620,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 208,
+      "Year": 1995,
+      "Value": 939,
+      "ValuePerCapita": 0
+    },
+    {
+      "idC": 208,
+      "Year": 2005,
+      "Value": 2171,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 208,
+      "Year": 2010,
+      "Value": 3920,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 208,
+      "Year": 2012,
+      "Value": 4070,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 208,
+      "Year": 2013,
+      "Value": 4870,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 208,
+      "Year": 2014,
+      "Value": 5229,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 209,
+      "Year": 1995,
+      "Value": 445944,
+      "ValuePerCapita": 8.7
+    },
+    {
+      "idC": 209,
+      "Year": 2005,
+      "Value": 333877,
+      "ValuePerCapita": 7.1
+    },
+    {
+      "idC": 209,
+      "Year": 2010,
+      "Value": 304643,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 209,
+      "Year": 2012,
+      "Value": 295791,
+      "ValuePerCapita": 6.5
+    },
+    {
+      "idC": 209,
+      "Year": 2013,
+      "Value": 271875,
+      "ValuePerCapita": 6
+    },
+    {
+      "idC": 209,
+      "Year": 2014,
+      "Value": 227299,
+      "ValuePerCapita": 5.1
+    },
+    {
+      "idC": 210,
+      "Year": 1975,
+      "Value": 31070,
+      "ValuePerCapita": 58.2
+    },
+    {
+      "idC": 210,
+      "Year": 1985,
+      "Value": 49926,
+      "ValuePerCapita": 37
+    },
+    {
+      "idC": 210,
+      "Year": 1995,
+      "Value": 70641,
+      "ValuePerCapita": 30.1
+    },
+    {
+      "idC": 210,
+      "Year": 2005,
+      "Value": 116149,
+      "ValuePerCapita": 28.5
+    },
+    {
+      "idC": 210,
+      "Year": 2010,
+      "Value": 160813,
+      "ValuePerCapita": 19.3
+    },
+    {
+      "idC": 210,
+      "Year": 2012,
+      "Value": 176386,
+      "ValuePerCapita": 19.7
+    },
+    {
+      "idC": 210,
+      "Year": 2013,
+      "Value": 170706,
+      "ValuePerCapita": 18.9
+    },
+    {
+      "idC": 210,
+      "Year": 2014,
+      "Value": 211370,
+      "ValuePerCapita": 23.2
+    },
+    {
+      "idC": 211,
+      "Year": 1975,
+      "Value": 603643,
+      "ValuePerCapita": 10.7
+    },
+    {
+      "idC": 211,
+      "Year": 1985,
+      "Value": 559856,
+      "ValuePerCapita": 9.9
+    },
+    {
+      "idC": 211,
+      "Year": 1995,
+      "Value": 538118,
+      "ValuePerCapita": 9.2
+    },
+    {
+      "idC": 211,
+      "Year": 2005,
+      "Value": 542580,
+      "ValuePerCapita": 9
+    },
+    {
+      "idC": 211,
+      "Year": 2010,
+      "Value": 493208,
+      "ValuePerCapita": 7.8
+    },
+    {
+      "idC": 211,
+      "Year": 2012,
+      "Value": 468573,
+      "ValuePerCapita": 7.4
+    },
+    {
+      "idC": 211,
+      "Year": 2013,
+      "Value": 45825,
+      "ValuePerCapita": 7.2
+    },
+    {
+      "idC": 211,
+      "Year": 2014,
+      "Value": 419820,
+      "ValuePerCapita": 6.5
+    },
+    {
+      "idC": 212,
+      "Year": 1975,
+      "Value": 2285,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 212,
+      "Year": 1985,
+      "Value": 2358,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 212,
+      "Year": 1995,
+      "Value": 3553,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 212,
+      "Year": 2005,
+      "Value": 5504,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 212,
+      "Year": 2010,
+      "Value": 7107,
+      "ValuePerCapita": 0.1
+    },
+    {
+      "idC": 212,
+      "Year": 2012,
+      "Value": 9545,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 212,
+      "Year": 2013,
+      "Value": 11177,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 212,
+      "Year": 2014,
+      "Value": 11562,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 213,
+      "Year": 1975,
+      "Value": 4406330,
+      "ValuePerCapita": 19.8
+    },
+    {
+      "idC": 213,
+      "Year": 1985,
+      "Value": 4492555,
+      "ValuePerCapita": 18.4
+    },
+    {
+      "idC": 213,
+      "Year": 1995,
+      "Value": 5132920,
+      "ValuePerCapita": 19
+    },
+    {
+      "idC": 213,
+      "Year": 2005,
+      "Value": 5789727,
+      "ValuePerCapita": 19.3
+    },
+    {
+      "idC": 213,
+      "Year": 2010,
+      "Value": 5395532,
+      "ValuePerCapita": 17.2
+    },
+    {
+      "idC": 213,
+      "Year": 2012,
+      "Value": 5119436,
+      "ValuePerCapita": 16.1
+    },
+    {
+      "idC": 213,
+      "Year": 2013,
+      "Value": 5159161,
+      "ValuePerCapita": 16.1
+    },
+    {
+      "idC": 213,
+      "Year": 2014,
+      "Value": 5254279,
+      "ValuePerCapita": 16.2
+    },
+    {
+      "idC": 214,
+      "Year": 1975,
+      "Value": 597,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 214,
+      "Year": 1985,
+      "Value": 3297,
+      "ValuePerCapita": 1.1
+    },
+    {
+      "idC": 214,
+      "Year": 1995,
+      "Value": 4591,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 214,
+      "Year": 2005,
+      "Value": 5776,
+      "ValuePerCapita": 1.7
+    },
+    {
+      "idC": 214,
+      "Year": 2010,
+      "Value": 6388,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 214,
+      "Year": 2012,
+      "Value": 8694,
+      "ValuePerCapita": 2.6
+    },
+    {
+      "idC": 214,
+      "Year": 2013,
+      "Value": 7587,
+      "ValuePerCapita": 2.2
+    },
+    {
+      "idC": 214,
+      "Year": 2014,
+      "Value": 6747,
+      "ValuePerCapita": 2
+    },
+    {
+      "idC": 215,
+      "Year": 1995,
+      "Value": 103435,
+      "ValuePerCapita": 4.5
+    },
+    {
+      "idC": 215,
+      "Year": 2005,
+      "Value": 117249,
+      "ValuePerCapita": 4.5
+    },
+    {
+      "idC": 215,
+      "Year": 2010,
+      "Value": 104168,
+      "ValuePerCapita": 3.7
+    },
+    {
+      "idC": 215,
+      "Year": 2012,
+      "Value": 115815,
+      "ValuePerCapita": 4
+    },
+    {
+      "idC": 215,
+      "Year": 2013,
+      "Value": 103354,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 215,
+      "Year": 2014,
+      "Value": 105214,
+      "ValuePerCapita": 3.6
+    },
+    {
+      "idC": 216,
+      "Year": 1975,
+      "Value": 55,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 216,
+      "Year": 1985,
+      "Value": 121,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 216,
+      "Year": 1995,
+      "Value": 66,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 216,
+      "Year": 2005,
+      "Value": 59,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 216,
+      "Year": 2010,
+      "Value": 121,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 216,
+      "Year": 2012,
+      "Value": 114,
+      "ValuePerCapita": 0.5
+    },
+    {
+      "idC": 216,
+      "Year": 2013,
+      "Value": 106,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 216,
+      "Year": 2014,
+      "Value": 154,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 217,
+      "Year": 1975,
+      "Value": 63817,
+      "ValuePerCapita": 5
+    },
+    {
+      "idC": 217,
+      "Year": 1985,
+      "Value": 101279,
+      "ValuePerCapita": 5.9
+    },
+    {
+      "idC": 217,
+      "Year": 1995,
+      "Value": 13335,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 217,
+      "Year": 2005,
+      "Value": 165096,
+      "ValuePerCapita": 6.2
+    },
+    {
+      "idC": 217,
+      "Year": 2010,
+      "Value": 189071,
+      "ValuePerCapita": 6.5
+    },
+    {
+      "idC": 217,
+      "Year": 2012,
+      "Value": 198766,
+      "ValuePerCapita": 6.7
+    },
+    {
+      "idC": 217,
+      "Year": 2013,
+      "Value": 183922,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 217,
+      "Year": 2014,
+      "Value": 185220,
+      "ValuePerCapita": 6.1
+    },
+    {
+      "idC": 218,
+      "Year": 1975,
+      "Value": 21800,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 218,
+      "Year": 1985,
+      "Value": 21166,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 218,
+      "Year": 1995,
+      "Value": 29090,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 218,
+      "Year": 2005,
+      "Value": 98144,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 218,
+      "Year": 2010,
+      "Value": 142738,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 218,
+      "Year": 2012,
+      "Value": 142221,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 218,
+      "Year": 2013,
+      "Value": 147230,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 218,
+      "Year": 2014,
+      "Value": 166911,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 219,
+      "Year": 2005,
+      "Value": 29,
+      "ValuePerCapita": 1.9
+    },
+    {
+      "idC": 219,
+      "Year": 2010,
+      "Value": 29,
+      "ValuePerCapita": 2.1
+    },
+    {
+      "idC": 219,
+      "Year": 2012,
+      "Value": 26,
+      "ValuePerCapita": 1.8
+    },
+    {
+      "idC": 219,
+      "Year": 2013,
+      "Value": 22,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 219,
+      "Year": 2014,
+      "Value": 22,
+      "ValuePerCapita": 1.6
+    },
+    {
+      "idC": 220,
+      "Year": 1995,
+      "Value": 10466,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 220,
+      "Year": 2005,
+      "Value": 20044,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 220,
+      "Year": 2010,
+      "Value": 23432,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 220,
+      "Year": 2012,
+      "Value": 18669,
+      "ValuePerCapita": 0.7
+    },
+    {
+      "idC": 220,
+      "Year": 2013,
+      "Value": 25497,
+      "ValuePerCapita": 1
+    },
+    {
+      "idC": 220,
+      "Year": 2014,
+      "Value": 22699,
+      "ValuePerCapita": 0.9
+    },
+    {
+      "idC": 221,
+      "Year": 1975,
+      "Value": 4081,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 221,
+      "Year": 1985,
+      "Value": 2754,
+      "ValuePerCapita": 0.4
+    },
+    {
+      "idC": 221,
+      "Year": 1995,
+      "Value": 2171,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 221,
+      "Year": 2005,
+      "Value": 2288,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 221,
+      "Year": 2010,
+      "Value": 2692,
+      "ValuePerCapita": 0.2
+    },
+    {
+      "idC": 221,
+      "Year": 2012,
+      "Value": 3667,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 221,
+      "Year": 2013,
+      "Value": 3957,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 221,
+      "Year": 2014,
+      "Value": 4503,
+      "ValuePerCapita": 0.3
+    },
+    {
+      "idC": 222,
+      "Year": 1975,
+      "Value": 8320,
+      "ValuePerCapita": 1.4
+    },
+    {
+      "idC": 222,
+      "Year": 1985,
+      "Value": 10264,
+      "ValuePerCapita": 1.2
+    },
+    {
+      "idC": 222,
+      "Year": 1995,
+      "Value": 15130,
+      "ValuePerCapita": 1.3
+    },
+    {
+      "idC": 222,
+      "Year": 2005,
+      "Value": 10770,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 222,
+      "Year": 2010,
+      "Value": 7778,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 222,
+      "Year": 2012,
+      "Value": 7792,
+      "ValuePerCapita": 0.6
+    },
+    {
+      "idC": 222,
+      "Year": 2013,
+      "Value": 11676,
+      "ValuePerCapita": 0.8
+    },
+    {
+      "idC": 222,
+      "Year": 2014,
+      "Value": 12020,
+      "ValuePerCapita": 0.8
+    }
+  ]
